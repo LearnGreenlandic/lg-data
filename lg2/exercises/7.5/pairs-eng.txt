@@ -1,0 +1,6 @@
+01	KNI chain of shops "The supplier"  (pilersor-HTR+TUQ)	Pilersuisoq
+02	love (asa-HTR+NIQ)	asanninneq
+03	grant (aningaasaler-HTR+NIQ)	aningaasaliineq
+04	interest (soqutigi-HTR+NIQ)	soqutiginninneq
+05	teacher (ilinniartip-HTR+TUQ)	ilinniartitsisoq
+06	consultant (siunnersor-HTR+TAR+TUQ)	siunnersuisartoq

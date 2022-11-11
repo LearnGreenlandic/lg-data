@@ -1,0 +1,12 @@
+01	Ilaqutariit soqutigivakka	Ilaqutariinnik soqutiginnippunga
+02	Eqqumiitsuliortut aningaasalerpaat	Eqqumiitsuliortunik aningaasaliipput
+03	Taamaattut atorpakka	Taamaattunik atuivunga
+04	Taamaattut atortarpaat	Taamaattunik atuisarput
+05	Akisussaassutsit eqqarsaatigivavut	Akisussaassutsinik eqqarsaatiginnippugut
+06	Meeqqat eqqarsaatigineruai	Meeqqanik eqqarsaatiginninneruvoq
+07	Ilaqutariit ilagivaat	Ilaqutariinnik ilaginnipput
+08	Meeqqat ilinniartippavut	Meeqqanik ilinniartitsivugut
+09	Nalunartut nassuiarpai	Nalunartunik nassuiaavoq
+10	Pilersaarutit nassuiarniaraluarpakka	Pilersaarutinik nassuiaaniaraluarpunga
+11	Taamaattut paasivavut	Taamaattunik paasinnippugut
+12	Taaguutit soqutigivallaanngilakka	Taaguutinik soqutiginnippallaanngilanga

@@ -1,0 +1,12 @@
+01	Henrik = qatanngutiga	Henrik qatanngutigivara
+02	Karen = aappara	Karen aapparivara
+03	Taanna = assersuutaa	Taanna assersuutigivaa
+04	Ilulissat = aqqutivut	Ilulissat aqqutigivavut
+05	Decembari = juullip qaammataa	Juullip decembari qaammatigivaa
+06	Tika = TELE-miut ilinniartitsisuat	TELE-miut Tika ilinniartitsisorivaat
+07	Uanga = TELE-miut ilinniartitsisuat	TELE-miut uanga ilinniartitsisorivaannga	*
+08	Juunip 21.-at = Kalaallit ulluat	Kalaallit juunip 21.-at ullorivaat
+09	Oqaasileriffik = suliffiga	Oqaasileriffik suliffigivara
+10	Una = meeqqat angajulliat	Meeqqat Una angajullerivaat
+11	Nuka = meeqqat nukarliat	Meeqqat Nuka nukarlerivaat
+12	Leo = nukara	Leo nukarivara

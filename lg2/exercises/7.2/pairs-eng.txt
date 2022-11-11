@@ -1,0 +1,16 @@
+01	A part of Denmark	Danmarkip ilaa
+02	In osme parts of Greenland	Kalaallit Nunaata ilaani
+03	Somewhere in Greenland	Kalaallit Nunaata ilaani
+04	On some of the bases	Sakkutooqarfiit ilaanni
+05	One of my friends	Ikinngutima ilaat
+06	Some of my friends	Ikinngutima ilaat
+07	One of my daughters	Panima ilaat
+08	Two of my children	Meeqqama ilaat marluk
+09	A quarter in Nuuk is called Qaqortoq	Nuup ilaa Qaqortumik ateqarpoq
+10	There are 5 schools in Nuuk. 3 of them are in town and 2 on Nuussuaq	Nuummi tallimanik atuarfeqarpoq. Ilaat pingasut illoqarfimmiipput ilaallu marluk Nuussuarmiillutik.
+11	One of the children left for Denmark	Meeqqat ilaat Danmarkimukarpoq
+12	Three of the children do not attend school	Meeqqat ilaat pingasut atuanngillat
+13	I lived in Odense a part of 1968	1968-ip ilaani Odensemi najugaqarpunga
+14	Parts of “Frk. Smilla” are strange	"Frk. Smilla"-p ilai eqqumiipput	*
+15	Some of the assistant professors (= adjunkt) became lecturers	Adjunktit ilaat lektorinngorput
+16	Two of the lecturers became professors	Lektorit ilaat marluk professorinngorput

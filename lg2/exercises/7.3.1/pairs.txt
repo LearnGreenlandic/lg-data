@@ -1,0 +1,27 @@
+01	meerannguit meeqqeriveqarput	meerannguit meeqqeriviat
+02	paniga angajulleq ikinnguteqarpoq	panimma angajulliup ikinngutaa
+03	ikinngutiga kalaaleq nuliaqarpoq	ikinngutima kalaallip nulia	Du har allerede set det sære -aq i tilhængene N-NNGUAQ, N+SUAQ og Vb+GALUAQ,<br>der undertiden forsvinder og efterlader os med de alternative stammer N-NNGUK, N+SUK og Vb+GALUK.<br>De al­ter­na­tive stammer anvendes før endelser, der begynder med vokal som relativs {-up},<br>flertals {-it} og possessumformerne som fx {-a}. Der er enkelte stammer, der har samme opførsel. nuliaq er en af dem.<br>Det er derfor 'hans kone' IKKE hedder (nuliaq-a) -> *nuliaa men derimod nuli<s>aq</s>-a -> nulia.
+04	angut taanna angajoqarpoq	angutip taassuma angajua
+05	qallunaat nunaqarput	Qallunaat Nunaat
+06	meerannguaq nukaqarpoq	meerannguup nukaa
+07	kalaallit nunaqarput	Kalaallit Nunaat
+08	paniga ikinnguteqarpoq	panimma ikinngutaa
+09	qallunaat kalaallimik ikinnguteqarput	qallunaat ikinngutaat kalaaleq
+10	Avanersuaq mittarfeqarpoq	Avanersuup mittarfia
+11	kalaallit ilaat ikinnguteqarpoq	kalaallit ilaata ikinngutaa
+12	nuliara nukaqarpoq	nuliama nukaa
+13	nuliara inequnartumik qatannguteqarpoq	nuliama qatanngutaa inequnartoq
+14	Nuussuaq atuarfeqarpoq	Nuussuup atuarfia
+15	ilinniartup ernera ikinnguteqarpoq	ilinniartup ernerata ikinngutaa
+16	angutaannaat ilinniarnertuunngorniarfeqarput	angutaannaat ilinniarnertuunngorniarfiat
+17	meerannguara meeqqeriveqarpoq	meerannguama meeqqerivia
+18	Amerikarmiut mittarfeqarput	Amerikarmiut mittarfiat
+19	meeqqat atuarfeqarput	meeqqat atuarfiat
+20	qallunaat ilaat paneqarpoq	qallunaat ilaata pania
+21	nukara nuliaqarpoq	nukama nulia
+22	kalaallit tamarmik ilisimatusarfeqarput	kalaallit tamarmik ilisimatusarfiat
+23	inuit tamarmik nunaqarput	inuit tamarmik nunaat
+24	ilinniarnertuut immikkut ittumik akisussaassuseqarput	ilinniarnertuut akisussaassusiat immikkut ittoq
+25	angajora marlunnik bileqarpoq	angajuma bilii marluk
+26	inequnartumik nuliaqarpunga	nuliara inequnartoq
+27	inequnartunik marlunnik paneqarpunga	panikka inequnartut marluk

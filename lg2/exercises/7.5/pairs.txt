@@ -1,0 +1,6 @@
+01	Forsyningsselskabet (pilersor-HTR+TUQ)	Pilersuisoq
+02	kærligheden (asa-HTR+NIQ)	asanninneq
+03	bevillingen (aningaasaler-HTR+NIQ)	aningaasaliineq
+04	interessen (soqutigi-HTR+NIQ)	soqutiginninneq
+05	læreren (ilinniartip-HTR+TUQ)	ilinniartitsisoq
+06	konsulenten (siunnersor-HTR+TAR+TUQ)	siunnersuisartoq

@@ -1,0 +1,10 @@
+01	What is your name?	My name is Tika.
+02	Would you like tea?	Not now.
+03	Would you like a drink?	Thank you all the same.
+04	When did you arrive?	Yesterday.
+05	When do you leave again?	The day after tomorrow.
+06	I'm sorry!	It's OK.
+07	How are you?	I'm fine.
+08	Have you seen Per?	Yes, I met him in the shop.
+09	Come and eat!	I haven't got time.
+10	You're good!	Thank you.

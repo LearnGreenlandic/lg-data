@@ -1,0 +1,7 @@
+01	Angut	Angutaavoq
+02	Qatanngut	Qatanngutaavoq
+03	Angut	Angutaavoq
+04	Assersuut	Assersuutaavoq
+05	Qaammat	Qaammataavoq
+06	Qinnut	Qinnutaavoq
+07	Taaguut	Taaguutaavoq

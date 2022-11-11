@@ -1,0 +1,16 @@
+Nanortalik	Nanortalimmiuuvunga
+Narsaq	Narsarmiuuvunga
+Qaqortoq	Qaqortormiuuvunga
+Ivittuut	Ivittoormiuuvunga	Ivittooq
+Paamiut	Paamiormiuuvunga	Paamioq
+Nuuk	Nuummiuuvunga
+Maniitsoq	Maniitsormiuuvunga
+Sisimiut	Sisimiormiuuvunga	Sisimioq
+Kangaatsiaq	Kangaatsiarmiuuvunga
+Aasiaat	Aasiammiuuvunga	Aasiak
+Qasigiannguit	Qasigiannguarmiuuvunga	Qasigiannguaq
+Ilulissat	Iluliarmiuuvunga	Iluliaq
+Qeqertarsuaq	Qeqertarsuarmiuuvunga
+Uummannaq	Uummannarmiuuvunga
+Avanersuaq	Avanersuarmiuuvunga
+Tasiilaq	Tasiilarmiuuvunga

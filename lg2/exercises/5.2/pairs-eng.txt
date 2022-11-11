@@ -1,0 +1,2 @@
+14	2008-mi sulivunga, 2010-mili ___	2008-mi sulivunga, 2010-mili sulinerussavunga	NB: Use NIRU=SSA
+17	2008-mi sulivunga, isumaqarpungali 2010-mi ___	2008-mi sulivunga, isumaqarpungali 2010-mi sulinerussallunga	NB: Use NIRU=SSA

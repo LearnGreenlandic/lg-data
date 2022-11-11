@@ -1,0 +1,17 @@
+Nanortalik	Nanortalimmiu
+Narsaq	Narsarmiu
+Qaqortoq	Qaqortormiu
+Ivittuut	Ivittoormiu	Ivittooq
+Paamiut	Paamiormiu	Paamioq
+Nuuk	Nuummiu
+Maniitsoq	Maniitsormiu
+Sisimiut	Sisimiormiu	Sisimioq
+Kangaatsiaq	Kangaatsiarmiu
+Aasiaat	Aasiammiu	Aasiak
+Qasigiannguit	Qasigiannguarmiu	Qasigiannguaq
+Ilulissat	Iluliarmiu	Iluliaq
+Qeqertarsuaq	Qeqertarsuarmiu
+Uummannaq	Uummannarmiu
+Upernavik	Upernavimmiu
+Avanersuaq	Avanersuarmiu
+Tasiilaq	Tasiilarmiu

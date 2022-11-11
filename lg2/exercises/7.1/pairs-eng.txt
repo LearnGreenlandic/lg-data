@@ -1,0 +1,30 @@
+01	What do you have?	Soqarpit?
+02	There is nothing!	Soqanngilaq
+03	I do not want anything	Sorusunngilanga
+04	To where?	Sumut?
+05	What do you do?	Suit?
+06	What does he do?	Sua?
+07	What kind of work does he do in Greenland?	Kalaallit Nunaanni suleriva?
+08	There is nothing	Soqanngilaq
+09	What will you do with that?	Sussaviuk?
+10	I shall not do anything	Sussanngilanga
+11	What way?	Sukkut?
+12	What does she want?	Sorusuppa?
+13	What will I work with?	Sulerissaanga?
+14	As what?	Sutut?
+15	The most what?	Sunerpaaq?
+16	They do not do the least	Sunngivipput
+17	I have nothing	Soqanngilanga
+18	Where is he now?	Massakkut sumiippa?
+19	Where do I go?	Sumukassaanga?
+20	Where?	Sumi?
+21	What has he begun to?	Sulerpa?
+22	What is your relation to him?	Taanna sugiviuk?
+23	What does she normally do?	Susarpa?
+24	What will they do in Denmark?	Danmarkimi sussappat?
+25	What became of him?	Sunngorpa?
+26	What shall we do?	Sussaagut?
+27	We will do nothing!	Sussanngilagut
+28	Was it a boy or a girl?	Sutaarpit?	Use su+TAAR to a new parent.
+29	Do you want a boy or a girl?	Sutaarusuppit?	Use su+TAAR to expectant parents.
+30	What on earth does he do?	Susoruna?	Use su+TUQ plus clitic UNA as exclamation

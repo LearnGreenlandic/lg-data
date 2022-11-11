@@ -1,0 +1,16 @@
+01	En del af Danmark	Danmarkip ilaa
+02	I nogle egne af Grønland	Kalaallit Nunaata ilaani
+03	På et sted i Grønland	Kalaallit Nunaata ilaani
+04	På nogle af militærbaserne	Sakkutooqarfiit ilaanni
+05	Een af mine venner	Ikinngutima ilaat
+06	Nogle af mine venner	Ikinngutima ilaat
+07	Den ene af mine døtre	Panima ilaat
+08	To af mine børn	Meeqqama ilaat marluk
+09	En bydel i Nuuk hedder Qaqortoq	Nuup ilaa Qaqortumik ateqarpoq
+10	Der er 5 skoler i Nuuk. 3 af dem ligger i byen og 2 på Nuussuaq	Nuummi tallimanik atuarfeqarpoq. Ilaat pingasut illoqarfimmiipput ilaallu marluk Nuussuarmiillutik.
+11	Et af børnene er taget til Danmark	Meeqqat ilaat Danmarkimukarpoq
+12	Tre af børnene er ikke i skole	Meeqqat ilaat pingasut atuanngillat
+13	Jeg boede i Odense i en del af 1968	1968-ip ilaani Odensemi najugaqarpunga
+14	Dele af “Frk. Smilla” er mærkelige	"Frk. Smilla"-p ilai eqqumiipput	*
+15	Nogle af adjunkterne er blevet lektor	Adjunktit ilaat lektorinngorput
+16	To af lektorerne er blevet professorer	Lektorit ilaat marluk professorinngorput

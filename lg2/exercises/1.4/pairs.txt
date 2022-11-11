@@ -1,0 +1,6 @@
+01	Uanga ilinniartippassi	Uanga ilinniartittarpassi
+02	Anaanaga eqqaamavaat	Anaanaga eqqaamasarpaat
+03	Nuliara sulivoq	Nuliara sulisarpoq
+04	Ilinniartitsisoq tutsiuteqqippoq	Ilinniartitsisoq tutsiuteqqittarpoq
+05	Ilisimatusarfimmi oqaasilerivoq	Ilisimatusarfimmi oqaasilerisarpoq
+06	Grand Canariami najugaqarpoq	Grand Canariami najugaqartarpoq

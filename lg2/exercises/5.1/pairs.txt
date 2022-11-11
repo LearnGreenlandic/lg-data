@@ -1,0 +1,13 @@
+01	Paasivara. Aallartippunga.	Paasigakku aallartippunga.
+02	Kalaallisut ilinniarpallaanngilanga. Kalaallit paasisinnaanngilaannga.	Kalaallisut ilinniarpallaannginnama kalaallit paasisinnaanngilaannga.
+03	TELE-mi sulivunga. Kalaallisut ilinniarpunga.	TELE-mi suligama kalaallisut ilinniarpunga.
+04	TELE POST-imi sulinikuuvunga. Aasiammiut Per Postimik taasarpaannga.	TELE POST-imi sulinikuugama Aasiammiut Per Postimik taasarpaannga.
+05	Nuliama asavaanga. Maaniiginnarniarpunga.	Nuliama asammanga maaniiginnarniarpunga.
+06	Nuliara asavara. Nuummit nuunnianngilanga.	Nuliara asagakku Nuummit nuunnianngilanga.
+07	Oqaasilerisuuvunga. Oqaasileriffimmi sulivunga.	Oqaasilerisuugama Oqaasileriffimmi sulivunga.
+08	Aappaagu qaammatini pingasuinnarni Nuummiissaanga. Akisuumik bileqassanngilanga.	Aappaagu qaammatini pingasuinnarni Nuummiissagama akisuumik bileqassanngilanga.
+09	Tusilarpunga. Sisimiuni ilinniarpunga.	Tusilarama Sisimiuni ilinniarpunga.
+10	Tutsiuteqqippunga. Tamarmik piareerput.	Tutsiuteqqikkama tamarmik piareerput.
+11	Ikinngutima sulileqquaanga. Aallartiinnarpunga.	Ikinngutima sulileqqummanga aallartiinnarpunga.
+12	Nuussuarmi illoqarpunga. Ilisimatusarfimmut sivikitsuinnaavoq.	Nuussuarmi illoqarama Ilisimatusarfimmut sivikitsuinnaavoq.
+13	Paasinngilara. Aallartinngilanga.	Paasinnginnakku aallartinngilanga.

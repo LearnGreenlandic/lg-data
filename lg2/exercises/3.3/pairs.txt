@@ -1,0 +1,8 @@
+01	Taanna angajulliuvoq	Naamik, uangaana angajulliusunga
+02	Nielsenimik ateqarpoq	Naamik, uangaana Nielsenimik ateqartunga
+03	Eqqumiitsuliortuupput	Naamik, uangaana eqqumiitsuliortuusunga
+04	Kisimi kalaaliuvoq	Naamik, uangaana kalaaliusunga
+05	Kingulliuvunga	Naamik, uangaana kingulliusunga
+06	Nuummiuupput	Naamik, uangaana Nuummiuusunga
+07	Qarasaasialerisarpugut	Naamik, uangaana qarasaasialerisartunga
+08	Anaana oqaluttuarpoq	Naamik, uangaana oqaluttuartunga

@@ -1,0 +1,15 @@
+Nuka+Sem/Mask+Sem/Hum+Prop+Trm+Sg	Nukamut
+Arnannguaq+Sem/Fem+Sem/Hum+Prop+Trm+Sg	Arnannguamut
+Malik+Sem/Mask+Sem/Hum+Prop+Trm+Sg	Malimmut
+Aputsiaq+Sem/Mask+Sem/Hum+Prop+Trm+Sg	Aputsiamut
+Aviaaja+Sem/Fem+Sem/Hum+Prop+Trm+Sg	Aviaajamut
+Egede+Sem/Hum+Prop+Trm+Sg	Egedemut
+Olsen+Sem/Hum+Prop+Trm+Sg	Olsenimut
+Rosing+Sem/Hum+Prop+Trm+Sg	Rosingimut
+Pisiffik+Sem/inst+Sem/Hum+Prop+Trm+Sg	Pisiffimmut
+Ilisimatusarfik+Sem/inst+Sem/Hum+Prop+Trm+Sg	Ilisimatusarfimmut
+Royal Greenland+Sem/inst+Sem/Hum+Prop+Trm+Sg	Royal Greenlandimut
+Naalakkersuisut+Sem/inst+Sem/Hum+Prop+Trm+Pl	Naalakkersuisunut
+Nunatta Atuagaateqarfia+Sem/inst+Sem/Hum+Prop+Trm+Sg+3SgPoss	Nunatta Atuagaateqarfianut
+Katuaq+Sem/inst+Sem/Hum+Prop+Trm+Sg	Katuamut
+illit+Gram/Pers+Pron+Trm+2Pl	ilissinnut

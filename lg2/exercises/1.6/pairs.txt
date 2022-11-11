@@ -1,0 +1,11 @@
+01	qallunaaq	qallunaamik
+02	nuliaq	nuliamik
+03	ukioq	ukiumik
+04	Nuummiu	Nuummiumik
+05	illu	illumik
+06	anaana	anaanamik
+07	kunngi	kunngimik
+08	eqqumiitsuliortoq	eqqumiitsuliortumik
+09	ataata	ataatamik
+10	ilinniartitsisoq	ilinniartitsisumik
+11	oqaasilerisoq	oqaasilerisumik

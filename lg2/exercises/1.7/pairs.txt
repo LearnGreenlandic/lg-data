@@ -1,0 +1,6 @@
+01	Nanortalik	Nanortalimmut
+02	ateq	atermut
+03	Nuuk	Nuummut
+04	Ilisimatusarfik	Ilisimatusarfimmut
+05	Kangerlussuaq	Kangerlussuarmut
+06	Upernavik	Upernavimmut

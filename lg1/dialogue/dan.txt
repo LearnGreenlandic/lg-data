@@ -1,0 +1,10 @@
+01	Hvad hedder du?	Jeg hedder Tika.
+02	Vil du have te?	Ikke lige nu.
+03	Vil du have en lille en?	Nej tak.
+04	Hvornår kom du?	I går.
+05	Hvornår rejser du igen?	I overmorgen.
+06	Undskyld!	Det er i orden.
+07	Hvordan har du det?	Fint.
+08	Har du set Per?	Ja, jeg mødte ham i butikken.
+09	Kom og spis!	Jeg har ikke tid.
+10	Hvor er du dygtig!	Tak.

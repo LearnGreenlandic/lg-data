@@ -1,0 +1,18 @@
+01	angut Paamiormiuuvoq	angutit Paamiormiuupput
+02	inuk kalaaliuvoq	inuit kalaaliupput
+03	meerannguaq oqaluttuarpoq	meerannguit oqaluttuarput
+04	mittarfik Kalaallit Nunaanniippoq	mittarfiit Kalaallit Nunaanniipput
+05	siulleq arnaavoq	siulliit arnaapput
+06	qallunaaq Pituffimmiuuvoq	qallunaat Pituffimmiuupput
+07	kalaaleq Avanersuarmiuuvoq	kalaallit Avanersuarmiuupput
+08	ilinniartitsisoq tutsiuteqqippoq	ilinniartitsisut tutsiuteqqipput
+09	Finlandimiu Nuummiippoq	Finlandimiut Nuummiipput
+10	meerara ilinniarnertuunngorniarfimmi ilinniarpoq	meeqqakka ilinniarnertuunngorniarfimmi ilinniarput
+11	angajulleq sulilerpoq	angajulliit sulilerput
+12	ilinniartoq bileqarpoq	ilinniartut bileqarput
+13	angutaannaq nuliaqarpoq	angutaannaat nuliaqarput
+14	angajulliinnaq qallunaajuvoq	angajulliinnaat qallunaajupput
+15	inuk Kalaallit Nunaannukarpoq	inuit Kalaallit Nunaannukarput
+16	Pituffimmiu manna amerikarmiuuvoq	Pituffimmiut makku amerikarmiuupput
+17	qallunaaq manna nuliaqarpoq	qallunaat makku nuliaqarput
+18	kalaaleq arnaavoq	kalaallit arnaapput

@@ -1,0 +1,15 @@
+Nuka+Sem/Mask+Sem/Hum+Prop+Abl+Sg	Nukamit
+Arnannguaq+Sem/Fem+Sem/Hum+Prop+Abl+Sg	Arnannguamit
+Malik+Sem/Mask+Sem/Hum+Prop+Abl+Sg	Malimmit
+Aputsiaq+Sem/Mask+Sem/Hum+Prop+Abl+Sg	Aputsiamit
+Aviaaja+Sem/Fem+Sem/Hum+Prop+Abl+Sg	Aviaajamit
+Egede+Sem/Hum+Prop+Abl+Sg	Egedemit
+Olsen+Sem/Hum+Prop+Abl+Sg	Olsenimit
+Rosing+Sem/Hum+Prop+Abl+Sg	Rosingimit
+Pisiffik+Sem/inst+Sem/Hum+Prop+Abl+Sg	Pisiffimmit
+Ilisimatusarfik+Sem/inst+Sem/Hum+Prop+Abl+Sg	Ilisimatusarfimmit
+Royal Greenland+Sem/inst+Sem/Hum+Prop+Abl+Sg	Royal Greenlandimit
+Naalakkersuisut+Sem/inst+Sem/Hum+Prop+Abl+Pl	Naalakkersuisunit
+Nunatta Atuagaateqarfia+Sem/inst+Sem/Hum+Prop+Abl+Sg+3SgPoss	Nunatta Atuagaateqarfianit
+Katuaq+Sem/inst+Sem/Hum+Prop+Abl+Sg	Katuamit
+illit+Gram/Pers+Pron+Abl+2Pl	ilissinnit

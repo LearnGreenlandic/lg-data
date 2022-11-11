@@ -1,0 +1,190 @@
+## Kapitel 2 - 51 ordformer##
+## Prop skifter aldrig numerus, så Prop kan bøjes ved simpel uskiftning af kasus ##
+
+Kalaallit Nunaat+Sem/Geo+Prop+Abs+Sg+3PlPoss	Kalaallit Nunaat
+Kalaallit Nunaat+Sem/Geo+Prop+Trm+Sg+3PlPoss	Kalaallit Nunaannut
+Kalaallit Nunaat+Sem/Geo+Prop+Abl+Sg+3PlPoss	Kalaallit Nunaannit
+
+Aasiaat+Sem/Geo+Prop+Abs+Pl	Aasiaat
+Aasiaat+Sem/Geo+Prop+Trm+Pl	Aasiannut
+Aasiaat+Sem/Geo+Prop+Abl+Pl	Aasiannit
+
+Danmark+Sem/Geo+Prop+Abs+Sg	Danmarki
+Danmark+Sem/Geo+Prop+Abl+Sg	Danmarkimit
+Danmark+Sem/Geo+Prop+Trm+Sg	Danmarkimut
+
+Kangerlussuaq+Sem/Geo+Prop+Abs+Sg	Kangerlussuaq
+Kangerlussuaq+Sem/Geo+Prop+Trm+Sg	Kangerlussuarmut
+Kangerlussuaq+Sem/Geo+Prop+Abl+Sg	Kangerlussuarmit
+
+Maniitsoq+Sem/Geo+Prop+Abs+Sg	Maniitsoq
+Maniitsoq+Sem/Geo+Prop+Trm+Sg	Maniitsumut
+Maniitsoq+Sem/Geo+Prop+Abl+Sg	Maniitsumit
+
+Nanortalik+Sem/Geo+Prop+Abs+Sg	Nanortalik
+Nanortalik+Sem/Geo+Prop+Trm+Sg	Nanortalimmut
+Nanortalik+Sem/Geo+Prop+Abl+Sg	Nanortalimmit
+
+Narsaq+Sem/Geo+Prop+Abs+Sg	Narsaq
+Narsaq+Sem/Geo+Prop+Trm+Sg	Narsamut
+Narsaq+Sem/Geo+Prop+Abl+Sg	Narsamit
+
+Narsarsuaq+Sem/Geo+Prop+Abs+Sg	Narsarsuaq
+Narsarsuaq+Sem/Geo+Prop+Trm+Sg	Narsarsuarmut
+Narsarsuaq+Sem/Geo+Prop+Abl+Sg	Narsarsuarmit
+
+Nuuk+Sem/Geo+Prop+Abs+Sg	Nuuk
+Nuuk+Sem/Geo+Prop+Trm+Sg	Nuummut
+Nuuk+Sem/Geo+Prop+Abl+Sg	Nuummit
+
+Paamiut+Sem/Geo+Prop+Abs+Pl	Paamiut
+Paamiut+Sem/Geo+Prop+Trm+Pl	Paamiunut
+Paamiut+Sem/Geo+Prop+Abl+Pl	Paamiunit
+
+Pituffik+Sem/Geo+Prop+Abs+Sg	Pituffik
+Pituffik+Sem/Geo+Prop+Trm+Sg	Pituffimmut
+Pituffik+Sem/Geo+Prop+Abl+Sg	Pituffimmit
+
+Qaanaaq+Sem/Geo+Prop+Abs+Sg	Qaanaaq
+Qaanaaq+Sem/Geo+Prop+Trm+Sg	Qaanaamut
+Qaanaaq+Sem/Geo+Prop+Abl+Sg	Qaanaamit
+
+Qaqortoq+Sem/Geo+Prop+Abs+Sg	Qaqortoq
+Qaqortoq+Sem/Geo+Prop+Trm+Sg	Qaqortumut
+Qaqortoq+Sem/Geo+Prop+Abl+Sg	Qaqortumit
+
+Sisimiut+Sem/Geo+Prop+Abs+Pl	Sisimiut
+Sisimiut+Sem/Geo+Prop+Trm+Pl	Sisimiunut
+Sisimiut+Sem/Geo+Prop+Abl+Pl	Sisimiunit
+
+Tasiilaq+Sem/Geo+Prop+Abs+Sg	Tasiilaq
+Tasiilaq+Sem/Geo+Prop+Trm+Sg	Tasiilamut
+Tasiilaq+Sem/Geo+Prop+Abl+Sg	Tasiilamit
+
+Upernavik+Sem/Geo+Prop+Abs+Sg	Upernavik
+Upernavik+Sem/Geo+Prop+Trm+Sg	Upernavimmut
+Upernavik+Sem/Geo+Prop+Abl+Sg	Upernavimmit
+
+Uummannaq+Sem/Geo+Prop+Abs+Sg	Uummannaq
+Uummannaq+Sem/Geo+Prop+Trm+Sg	Uummannamut
+Uummannaq+Sem/Geo+Prop+Abl+Sg	Uummannamit
+
+
+
+
+
+
+
+## Kapitel 3 - 68 nye ordformer + 17 Lok på stammerne fra 2: Kumuleret 136 ordformer ##
+#Lok-læsninger af de 17 Prop introduceret i forrige kapitel
+Kalaallit Nunaat+Sem/Geo+Prop+Lok+Sg+3PlPoss	Kalaallit Nunaanni
+Aasiaat+Sem/Geo+Prop+Lok+Pl	Aasianni
+Danmark+Sem/Geo+Prop+Lok+Sg	Danmarkimi
+Kangerlussuaq+Sem/Geo+Prop+Lok+Sg	Kangerlussuarmi
+Maniitsoq+Sem/Geo+Prop+Lok+Sg	Maniitsumi
+Nanortalik+Sem/Geo+Prop+Lok+Sg	Nanortalimmi
+Narsaq+Sem/Geo+Prop+Lok+Sg	Narsami
+Narsarsuaq+Sem/Geo+Prop+Lok+Sg	Narsarsuarmi
+Nuuk+Sem/Geo+Prop+Lok+Sg	Nuummi
+Paamiut+Sem/Geo+Prop+Lok+Pl	Paamiuni
+Pituffik+Sem/Geo+Prop+Lok+Sg	Pituffimmi
+Qaanaaq+Sem/Geo+Prop+Lok+Sg	Qaanaami
+Qaqortoq+Sem/Geo+Prop+Lok+Sg	Qaqortumi
+Sisimiut+Sem/Geo+Prop+Lok+Pl	Sisimiuni
+Tasiilaq+Sem/Geo+Prop+Lok+Sg	Tasiilami
+Upernavik+Sem/Geo+Prop+Lok+Sg	Upernavimmi
+Uummannaq+Sem/Geo+Prop+Lok+Sg	Uummannami
+
+#Nyt stof i kapitel 3. Uønskede læsninger af Abs-formerne er filtreret væk #
+Nuka+Sem/Mask+Sem/Hum+Prop+Abs+Sg	Nuka
+Nuka+Sem/Mask+Sem/Hum+Prop+Trm+Sg	Nukamut
+Nuka+Sem/Mask+Sem/Hum+Prop+Abl+Sg	Nukamit
+Nuka+Sem/Mask+Sem/Hum+Prop+Lok+Sg	Nukami
+
+Arnannguaq+Sem/Fem+Sem/Hum+Prop+Abs+Sg	Arnannguaq
+Arnannguaq+Sem/Fem+Sem/Hum+Prop+Trm+Sg	Arnannguamut
+Arnannguaq+Sem/Fem+Sem/Hum+Prop+Abl+Sg	Arnannguamit
+Arnannguaq+Sem/Fem+Sem/Hum+Prop+Lok+Sg	Arnannguami
+
+Malik+Sem/Mask+Sem/Hum+Prop+Abs+Sg	Malik
+Malik+Sem/Mask+Sem/Hum+Prop+Trm+Sg	Malimmut
+Malik+Sem/Mask+Sem/Hum+Prop+Abl+Sg	Malimmit
+Malik+Sem/Mask+Sem/Hum+Prop+Lok+Sg	Malimmi
+
+Aputsiaq+Sem/Mask+Sem/Hum+Prop+Abs+Sg	Aputsiaq
+Aputsiaq+Sem/Mask+Sem/Hum+Prop+Trm+Sg	Aputsiamut
+Aputsiaq+Sem/Mask+Sem/Hum+Prop+Abl+Sg	Aputsiamit
+Aputsiaq+Sem/Mask+Sem/Hum+Prop+Lok+Sg	Aputsiami
+
+Aviaaja+Sem/Fem+Sem/Hum+Prop+Abs+Sg	Aviaaja
+Aviaaja+Sem/Fem+Sem/Hum+Prop+Trm+Sg	Aviaajamut
+Aviaaja+Sem/Fem+Sem/Hum+Prop+Abl+Sg	Aviaajamit
+Aviaaja+Sem/Fem+Sem/Hum+Prop+Lok+Sg	Aviaajami
+
+Egede+Sem/Hum+Prop+Abs+Sg	Egede
+#Egede+Sem/Hum+Prop+Abs+Sg	Egede	0.000000 #Problem når både for- og efternavn (Sem/Mask ikke medtaget)
+Egede+Sem/Hum+Prop+Trm+Sg	Egedemut
+Egede+Sem/Hum+Prop+Abl+Sg	Egedemit
+Egede+Sem/Hum+Prop+Lok+Sg	Egedemi
+
+Olsen+Sem/Hum+Prop+Abs+Sg	Olsen
+Olsen+Sem/Hum+Prop+Trm+Sg	Olsenimut
+Olsen+Sem/Hum+Prop+Abl+Sg	Olsenimit
+Olsen+Sem/Hum+Prop+Lok+Sg	Olsenimi
+
+Rosing+Sem/Hum+Prop+Abs+Sg	Rosing
+Rosing+Sem/Hum+Prop+Trm+Sg	Rosingimut
+Rosing+Sem/Hum+Prop+Abl+Sg	Rosingimit
+Rosing+Sem/Hum+Prop+Lok+Sg	Rosingimi
+
+Pisiffik+Sem/inst+Sem/Hum+Prop+Abs+Sg	Pisiffik
+Pisiffik+Sem/inst+Sem/Hum+Prop+Trm+Sg	Pisiffimmut
+Pisiffik+Sem/inst+Sem/Hum+Prop+Abl+Sg	Pisiffimmit
+Pisiffik+Sem/inst+Sem/Hum+Prop+Lok+Sg	Pisiffimmi
+
+Ilisimatusarfik+Sem/inst+Sem/Hum+Prop+Abs+Sg	Ilisimatusarfik
+Ilisimatusarfik+Sem/inst+Sem/Hum+Prop+Trm+Sg	Ilisimatusarfimmut
+Ilisimatusarfik+Sem/inst+Sem/Hum+Prop+Abl+Sg	Ilisimatusarfimmit
+Ilisimatusarfik+Sem/inst+Sem/Hum+Prop+Lok+Sg	Ilisimatusarfimmi
+
+Royal Greenland+Sem/inst+Sem/Hum+Prop+Abs+Sg	Royal Greenland
+Royal Greenland+Sem/inst+Sem/Hum+Prop+Trm+Sg	Royal Greenlandimut
+Royal Greenland+Sem/inst+Sem/Hum+Prop+Abl+Sg	Royal Greenlandimit
+Royal Greenland+Sem/inst+Sem/Hum+Prop+Lok+Sg	Royal Greenlandimi
+
+Naalakkersuisut+Sem/inst+Sem/Hum+Prop+Abs+Pl	Naalakkersuisut
+Naalakkersuisut+Sem/inst+Sem/Hum+Prop+Trm+Pl	Naalakkersuisunut
+Naalakkersuisut+Sem/inst+Sem/Hum+Prop+Abl+Pl	Naalakkersuisunit
+Naalakkersuisut+Sem/inst+Sem/Hum+Prop+Lok+Pl	Naalakkersuisuni
+
+Nunatta Atuagaateqarfia+Sem/inst+Sem/Hum+Prop+Abs+Sg+3SgPoss	Nunatta Atuagaateqarfia
+Nunatta Atuagaateqarfia+Sem/inst+Sem/Hum+Prop+Trm+Sg+3SgPoss	Nunatta Atuagaateqarfianut
+Nunatta Atuagaateqarfia+Sem/inst+Sem/Hum+Prop+Abl+Sg+3SgPoss	Nunatta Atuagaateqarfianit
+Nunatta Atuagaateqarfia+Sem/inst+Sem/Hum+Prop+Lok+Sg+3SgPoss	Nunatta Atuagaateqarfiani
+
+Katuaq+Sem/inst+Sem/Hum+Prop+Abs+Sg	Katuaq
+Katuaq+Sem/inst+Sem/Hum+Prop+Trm+Sg	Katuamut
+Katuaq+Sem/inst+Sem/Hum+Prop+Abl+Sg	Katuamit
+Katuaq+Sem/inst+Sem/Hum+Prop+Lok+Sg	Katuami
+
+aallar+Gram/IV+Sem/run+Gram/IV+V+Ind+1Sg	aallarpunga
+aallar+Gram/IV+Sem/run+Gram/IV+V+Ind+3Sg	aallarpoq
+tikip+Gram/IV+Sem/reach+V+Ind+1Sg	tikippunga
+tikip+Gram/IV+Sem/reach+V+Ind+3Sg	tikippoq
+#ilinniar+Gram/IV+TIP+Der/vv+Gram/TV+Sem/teach+Gram/TV+V+Ind+1Sg+3SgO	ilinniartippara
+#ilinniar+Gram/IV+TIP+Der/vv+Gram/TV+Sem/teach+Gram/TV+V+Ind+1Sg+2PlO	ilinniartippassi
+# Fake baseform
+ilinniartip+Der/vv+Gram/TV+Sem/teach+Gram/TV+V+Ind+1Sg+3SgO	ilinniartippara
+ilinniartip+Der/vv+Gram/TV+Sem/teach+Gram/TV+V+Ind+1Sg+2PlO	ilinniartippassi
+naapip+Gram/TV+Sem/encounter+V+Ind+1Sg+3SgO	naapippara
+naapip+Gram/TV+Sem/encounter+V+Ind+1Sg+2PlO	naapippassi
+
+#illit+Gram/Pers+Pron+Abs+2Pl	ilissi
+#illit+Gram/Pers+Pron+Trm+2Pl	ilissinnut
+#illit+Gram/Pers+Pron+Abl+2Pl	ilissinnit
+#illit+Gram/Pers+Pron+Lok+2Pl	ilissinni
+# Fake baseform
+ilissi+Gram/Pers+Pron+Abs+2Pl	ilissi
+ilissi+Gram/Pers+Pron+Trm+2Pl	ilissinnut
+ilissi+Gram/Pers+Pron+Abl+2Pl	ilissinnit
+ilissi+Gram/Pers+Pron+Lok+2Pl	ilissinni

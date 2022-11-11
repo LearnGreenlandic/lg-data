@@ -1,0 +1,5 @@
+01	Ilinniartitsisuuvoq. Aamma Ilisimatusarfimmi ilinniarpoq	Ilinniartitsisuuvoq Ilisimatusarfimmilu ilinniarluni
+02	Marlunnik aleqaqarput. Aamma ataatsimik najaqarput	Marlunnik aleqaqarput ataatsimillu najaqarlutik
+03	Nalunanngilaq. Atorsinnaavoq	Nalunanngilaq atorsinnaallunilu
+04	Illoqarpunga. Aamma bileqarpunga	Illoqarpunga bileqarlungalu
+05	Nuummut nuuppoq. Ilinniartitsisunngorpoq	Nuummut nuuppoq ilinniartitsisunngorlunilu

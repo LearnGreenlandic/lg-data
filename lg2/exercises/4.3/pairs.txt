@@ -1,0 +1,16 @@
+01	arnat illoqarfeqarput	arnat illoqarfiat
+02	arnaq meeraqarpoq	arnap meeraa
+03	meeraq anaanaqarpoq	meeqqap anaanaa
+04	angut angajoqarpoq	angutip angajua
+05	inuit nunaqarput	inuit nunaat
+06	meerannguaq nukaqarpoq	meerannguup nukaa
+07	Nuuk mittarfeqarpoq	Nuup mittarfia
+08	Ilulissat mittarfeqarput	Ilulissat mittarfiat
+09	kalaallit nunaqarput	Kalaallit Nunaat
+10	angutaannaat ilinniarnertuunngorniarfeqarput	angutaannaat ilinniarnertuunngorniarfiat
+11	inuk nukaqarpoq	inuup nukaa
+12	amerikarmiut mittarfeqarput	amerikarmiut mittarfiat
+13	qallunaaq ateqarpoq	qallunaap atia
+14	kalaallit ilisimatusarfeqarput	kalaallit ilisimatusarfiat
+15	meeqqat angajoqarput	meeqqat angajuat
+16	inuit tamarmik nunaqarput	inuit tamarmik nunaat

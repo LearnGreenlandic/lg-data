@@ -1,0 +1,18 @@
+01	Ikinngutiga 2011-mi ilinnialissavoq. Isumaqarpunga.	Ikinngutiga 2011-mi ilinnialissasoq isumaqarpunga.
+02	Ilinniartut ilaat uniinnarniarput. Oqarput.	Ilinniartut ilaat uniinnarniarlutik oqarput.
+03	Ilinniartut ilaat uniinnarniarput. Isumaqarpunga.	Ilinniartut ilaat uniinnarniartut isumaqarpunga.
+04	Ilulissani ukiiniarpoq. Oqarfigivaanga.	Ilulissani ukiiniarluni oqarfigivaanga.
+05	Ilulissani ukeeqquaanga. Oqarfigivaanga.	Ilulissani ukeeqqullunga oqarfigivaanga.
+06	Ilulissani ukiissavunga. Oqarfigivaanga.	Ilulissani ukiissasunga oqarfigivaanga.
+07	Taanna uannit nukarliuvoq. Isumaqarpunga.	Taanna uannit nukarliusoq isumaqarpunga.
+08	Uannit nukarliuvoq. Oqarpoq.	Uannit nukarliulluni oqarpoq.
+09	Tusagassiortut erniinnaq tutsiuteqqissapput. Oqarput.	Tusagassiortut erniinnaq tutsiuteqqissallutik oqarput.
+10	Tusagassiortut erniinnaq tutsiuteqqissapput. Oqarpugut.	Tusagassiortut erniinnaq tutsiuteqqissasut oqarpugut.
+11	Tikap ania Suersamik ateqarpoq. Nalunngilara.	Tikap ania Suersamik ateqartoq nalunngilara.
+12	Suersaq tusilartuuvoq. Tika oqaluttuarpoq.	Suersaq tusilartuusoq Tika oqaluttuarpoq.
+13	Aamma taavaa. Suersaq massakkut suliffeqanngilaq.	Aamma taavaa Suersaq massakkut suliffeqanngitsoq.
+14	Per nukaqarpoq. Eqqaamaviuk?	Per nukaqartoq eqqaamaviuk?
+15	Leomik ateqarpoq. Per oqaluttuarpoq.	Leomik ateqartoq Per oqaluttuarpoq.
+16	Jyllandimi najugaqarpoq. Isumaqarpunga.	Jyllandimi najugaqartoq isumaqarpunga.
+17	Uanga Nuummi najugaqarpunga. Taanikuuara.	Uanga Nuummi najugaqarlunga taanikuuara.
+18	2011-mi ilinnialissavunga. Isumaqarpunga.	2011-mi ilinnialissallunga isumaqarpunga.

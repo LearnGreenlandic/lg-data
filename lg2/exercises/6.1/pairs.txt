@@ -1,0 +1,14 @@
+01	Per ≠ arnaq, Una = arnaq	Per arnaanngilaq Unali arnaavoq
+02	Qaanaaq ≠ mittarfik, Pituffik = mittarfik	Qaanaaq mittarfiunngilaq Pituffilli mittarfiuvoq
+03	Arsuk ≠ illoqarfik, Nuuk = illoqarfik	Arsuk illoqarfiunngilaq Nuulli illoqarfiuvoq
+04	Niels Egede ≠ oqaasilerisoq, angajua Paul = oqaasilerisoq	Niels Egede oqaasilerisuunngilaq angajuali Paul oqaasilerisuuvoq
+05	paniga ≠ angut, ernera = angut	Paniga angutaanngilaq ernerali angutaavoq
+06	angajora, nukara = angutit, nuliara ≠ angut	Angajora nukaralu angutaapput nuliarali angutaanngilaq
+07	Margrethe = dronning, Henrik ≠ kunngi	Margrethe dronningiuvoq Henrikili kunngiunngilaq
+08	Kastrup, Pituffik ≠ illoqarfiit, København, Qaanaaq = illoqarfiit	Kastrup Pituffillu illoqarfiunngillat Københavnili Qaanaarlu illoqarfiupput
+09	uanga = Oqaasileriffimmiu, nuliara ≠ Oqaasileriffimmiu	Uanga Oqaasileriffimmiuuvunga nuliarali Oqaasileriffimmiuunngilaq
+10	Danmarkimut nuuttut ≠ qallunaat, meeraat = qallunaat	Danmarkimut nuuttut qallunaajunngillat meeraalli qallunaajupput
+11	Per Rosing = kalaaleq, uanga ≠ kalaaleq	Per Rosing kalaaliuvoq uangali kalaaliunngilanga
+12	kalaallit ≠ qulingiluat, qallunaat = qulingiluat	Kalaallit qulingiluaanngillat qallunaalli qulingiluaapput	Hint: der IKKE er 9 grønlændere, men 9 danskere
+13	ernera = Nuussuup atuarfiani atuartoq, paniga angajulleq ≠ Nuussuup atuarfiani atuartoq	Ernera Nuussuup atuarfiani atuartuuvoq panigali angajulleq Nuussuup atuarfiani atuartuunngilaq	Hint: det var min søn, der gik på Nuussuup Atuarfia, IKKE min ældste datter
+14	Ilisimatusarfimmi ilinniartut = ilinniarnertuut, ilinniarnertuunngorniarfimmi ilinniartut ≠ ilinniarnertuut	Ilisimatusarfimmi ilinniartut ilinniarnertuujupput ilinniarnertuunngorniarfimmili ilinniartut ilinniarnertuujunngillat

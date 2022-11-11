@@ -1,0 +1,13 @@
+01	arnaq	arnap
+02	angajulleq	angajulliup
+03	ataata	ataatap
+04	eqqumiitsuliortoq	eqqumiitsuliortup
+05	qallunaaq	qallunaap
+06	ukioq	ukiup
+07	ilinniarnertuunngorniarfik	ilinniarnertuunngorniarfiup
+08	ilisimatusarfik	ilisimatusarfiup
+09	adjunkt	adjunktip
+10	nuliaq	nuliap
+11	ukiulik	ukiullip	ukiul(l)ik
+12	kalaaleq	kalaallip	kalaal(l)iq
+13	nukappiaraannaq	nukappiaraannaap

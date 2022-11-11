@@ -1,0 +1,10 @@
+01	Qanoq ateqarpit?	Tikamik ateqarpunga.
+02	Tiitorusuppit?	Massakkuunngitsoq.
+03	Ataasinnguartorusuppit?	Qujaannarpunga.
+04	Qanga tikippit?	Ippassaq.
+05	Qaqugu aallaqqissavit?	Aqaguagu.
+06	Utoqqatserpunga!	Ajunngilaq.
+07	Qanoq ippit?	Ajunngilanga.
+08	Per takuiuk?	Aap, pisiniarfimmi naapippara.
+09	Neriartorniarit!	Piffissaqanngilanga.
+10	Pikkoreqaatit!	Qujanaq.
