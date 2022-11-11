@@ -1,0 +1,8 @@
+01	Qatannguteqarpunga. ___ Leomik ateqarpoq.	Qatannguteqarpunga. Qatanngutiga Leomik ateqarpoq.
+02	Qatannguteqarput. Uanga ___ naluakka.	Qatannguteqarput. Uanga qatanngutaat naluakka.
+03	Assersuuteqarpugut. Ilinniartut _____ paasinngilaat.	Assersuuteqarpugut. Ilinniartut assersuuterput paasinngilaat.
+04	Assersuuteqaraluarpoq. Uanga ____ paasinngilara.	Assersuuteqaraluarpoq. Uanga assersuutaa paasinngilara.
+05	Assersuuteqaraluarpoq. Uanga ____ paasinngilakka.	Assersuuteqaraluarpoq. Uanga assersuutai paasinngilakka.
+06	Qatannguteqarpunga. ____ Henrikimik Leomillu ateqarput.	Qatannguteqarpunga. Qatanngutikka Henrikimik Leomillu ateqarput.
+07	Leo qatannguteqarpoq. ____ Henrikimik Perimillu ateqarput.	Leo qatannguteqarpoq. Qatanngutai Henrikimik Perimillu ateqarput.
+08	Nalunngilara taaguuteqartoq. ___ eqqaamanngilara.	Nalunngilara taaguuteqartoq. Taaguutaa eqqaamanngilara.

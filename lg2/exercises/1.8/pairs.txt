@@ -1,0 +1,15 @@
+01	eqqumiitsuliortoq	eqqumiitsuliortuuvoq
+02	Ilisimatusarfik	Ilisimatusarfiuvoq
+03	kalaaleq	kalaaliuvoq
+04	Nuuk	Nuujuvoq
+05	qallunaaq	qallunaajuvoq
+06	illu	illuuvoq
+07	oqaaseq	oqaasiuvoq
+08	oqaasilerisoq	oqaasilerisuuvoq
+09	ukioq	ukiuuvoq
+10	Nuummiu	Nuummiuuvoq
+11	anaana	anaanaavoq
+12	ataata	ataataavoq
+13	nuliaq	nuliaavoq
+14	ateq	atiuvoq
+15	kunngi	kunngiuvoq

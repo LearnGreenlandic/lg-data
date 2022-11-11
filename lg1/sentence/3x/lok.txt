@@ -1,0 +1,15 @@
+Nuka+Sem/Mask+Sem/Hum+Prop+Lok+Sg	Nukami
+Arnannguaq+Sem/Fem+Sem/Hum+Prop+Lok+Sg	Arnannguami
+Malik+Sem/Mask+Sem/Hum+Prop+Lok+Sg	Malimmi
+Aputsiaq+Sem/Mask+Sem/Hum+Prop+Lok+Sg	Aputsiami
+Aviaaja+Sem/Fem+Sem/Hum+Prop+Lok+Sg	Aviaajami
+Egede+Sem/Hum+Prop+Lok+Sg	Egedemi
+Olsen+Sem/Hum+Prop+Lok+Sg	Olsenimi
+Rosing+Sem/Hum+Prop+Lok+Sg	Rosingimi
+Pisiffik+Sem/inst+Sem/Hum+Prop+Lok+Sg	Pisiffimmi
+Ilisimatusarfik+Sem/inst+Sem/Hum+Prop+Lok+Sg	Ilisimatusarfimmi
+Royal Greenland+Sem/inst+Sem/Hum+Prop+Lok+Sg	Royal Greenlandimi
+Naalakkersuisut+Sem/inst+Sem/Hum+Prop+Lok+Pl	Naalakkersuisuni
+Nunatta Atuagaateqarfia+Sem/inst+Sem/Hum+Prop+Lok+Sg+3SgPoss	Nunatta Atuagaateqarfiani
+Katuaq+Sem/inst+Sem/Hum+Prop+Lok+Sg	Katuami
+illit+Gram/Pers+Pron+Lok+2Pl	ilissinni

@@ -1,0 +1,66 @@
+01	Qaqortoq (taakku) ullumi	ullumi Qaqortumukarput
+02	Qaqortoq (taakku) naamik	naamik, Qaqortumukanngillat
+03	Qaqortoq (taakku) aqagu	aqagu Qaqortumukassapput
+04	Qaqortoq (uanga) ullumi	ullumi Qaqortumukarpunga
+05	Qaqortoq (uanga) naamik	naamik, Qaqortumukanngilanga
+06	Qaqortoq (uanga) aqagu	aqagu Qaqortumukassavunga|aqagu Qaqortumukassaanga
+07	Ivittuut (taakku) ullumi	ullumi Ivittuunukarput
+08	Ivittuut (taakku) naamik	naamik, Ivittuunukanngillat
+09	Ivittuut (taakku) aqagu	aqagu Ivittuunukassapput
+10	Ivittuut (uanga) ullumi	ullumi Ivittuunukarpunga
+11	Ivittuut (uanga) naamik	naamik, Ivittuunukanngilanga
+12	Ivittuut (uanga) aqagu	aqagu Ivittuunukassavunga|aqagu Ivittuunukassaanga
+13	Ilisimatusarfik (taakku) ullumi	ullumi Ilisimatusarfimmukarput
+14	Ilisimatusarfik (taakku) naamik	naamik, Ilisimatusarfimmukanngillat
+15	Ilisimatusarfik (taakku) aqagu	aqagu Ilisimatusarfimmukassapput
+16	Ilisimatusarfik (uanga) ullumi	ullumi Ilisimatusarfimmukarpunga
+17	Ilisimatusarfik (uanga) naamik	naamik Ilisimatusarfimmukanngilanga
+18	Ilisimatusarfik (uanga) aqagu	aqagu Ilisimatusarfimmukassavunga|aqagu Ilisimatusarfimmukassaanga
+19	Aasiaat (taakku) ullumi	ullumi Aasiannukarput
+20	Aasiaat (taakku) naamik	naamik, Aasiannukanngillat
+21	Aasiaat (taakku) aqagu	aqagu Aasiannukassapput
+22	Aasiaat (uanga) ullumi	ullumi Aasiannukarpunga
+23	Aasiaat (uanga) naamik	naamik, Aasiannukanngilanga
+24	Aasiaat (uanga) aqagu	aqagu Aasiannukassavunga|aqagu Aasiannukassaanga
+25	anaanakkut (taakku) ullumi	ullumi anaanakkunnukarput
+26	anaanakkut (taakku) naamik	naamik, anaanakkunnukanngillat
+27	anaanakkut (taakku) aqagu	aqagu anaanakkunnukassapput
+28	anaanakkut (uanga) ullumi	ullumi anaanakkunnukarpunga
+29	anaanakkut (uanga) naamik	naamik, anaanakkunnukanngilanga
+30	anaanakkut (uanga) aqagu	aqagu anaanakkunnukassavunga|aqagu anaanakkunnukassaanga
+31	Nuussuup atuarfia (taakku) ullumi	ullumi Nuussuup atuarfianukarput
+32	Nuussuup atuarfia (taakku) naamik	naamik, Nuussuup atuarfianukanngillat
+33	Nuussuup atuarfia (taakku) aqagu	aqagu Nuussuup atuarfianukassapput
+34	Nuussuup atuarfia (uanga) ullumi	ullumi Nuussuup atuarfianukarpunga
+35	Nuussuup atuarfia (uanga) naamik	naamik, Nuussuup atuarfianukanngilanga
+36	Nuussuup atuarfia (uanga) aqagu	aqagu Nuussuup atuarfianukassavunga|aqagu Nuussuup atuarfianukassaanga
+37	Tasiilaq (taakku) ullumi	ullumi Tasiilamukarput
+38	Tasiilaq (taakku) naamik	naamik, Tasiilamukanngillat
+39	Tasiilaq (taakku) aqagu	aqagu Tasiilamukassapput
+40	Tasiilaq (uanga) ullumi	ullumi Tasiilamukarpunga
+41	Tasiilaq (uanga) naamik	naamik, Tasiilamukanngilanga
+42	Tasiilaq (uanga) aqagu	aqagu Tasiilamukassavunga|aqagu Tasiilamukassaanga
+43	arnannguit (taakku) ullumi	ullumi arnannguanukarput
+44	arnannguit (taakku) naamik	naamik, arnannguanukanngillat
+45	arnannguit (taakku) aqagu	aqagu arnannguanukassapput
+46	arnannguit (uanga) ullumi	ullumi arnannguanukarpunga
+47	arnannguit (uanga) naamik	naamik, arnannguanukanngilanga
+48	arnannguit (uanga) aqagu	aqagu arnannguanukassavunga|aqagu arnannguanukassaanga
+49	angussuit (taakku) ullumi	ullumi angussuarnukarput
+50	angussuit (taakku) naamik	naamik, angussuarnukanngillat
+51	angussuit (taakku) aqagu	aqagu angussuarnukassapput
+52	angussuit (uanga) ullumi	ullumi angussuarnukarpunga
+53	angussuit (uanga) naamik	naamik, angussuarnukanngilanga
+54	angussuit (uanga) aqagu	aqagu angussuarnukassavunga|aqagu angussuarnukassaanga
+55	Avanersuaq (taakku) ullumi	ullumi Avanersuarmukarput
+56	Avanersuaq (taakku) naamik	naamik, Avanersuarmukanngillat
+57	Avanersuaq (taakku) aqagu	aqagu Avanersuarmukassapput
+58	Avanersuaq (uanga) ullumi	ullumi Avanersuarmukarpunga
+59	Avanersuaq (uanga) naamik	naamik Avanersuarmukanngilanga
+60	Avanersuaq (uanga) aqagu	aqagu Avanersuarmukassavunga|aqagu Avanersuarmukassaanga
+61	inuit (taakku) ullumi	ullumi inunnukarput
+62	inuit (taakku) naamik	naamik, inunnukanngillat
+63	inuit (taakku) aqagu	aqagu inunnukassapput
+64	inuit (uanga) ullumi	ullumi inunnukarpunga
+65	inuit (uanga) naamik	naamik, inunnukanngilanga
+66	inuit (uanga) aqagu	aqagu inunnukassavunga|aqagu inunnukassaanga

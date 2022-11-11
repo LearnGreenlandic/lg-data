@@ -1,0 +1,5 @@
+01	Qarasaasiaq atorpaa. Sulisarpoq.	Qarasaasiaq atorlugu sulisarpoq.
+02	Kalaallisut ilinniassavoq. Oqarpoq.	Kalaallisut ilinniassalluni oqarpoq.
+03	Tika aappaagu bachelorinngussavoq. Oqarpoq.	Tika aappaagu bachelorinngussalluni oqarpoq.
+04	Oqaasilerineq sammisarilaarpaa. Kalaallisut ilinniarpoq.	Oqaasilerineq sammisarilaarlugu kalaallisut ilinniarpoq.
+05	Tallimanik meeraqarpunga. Finlandimi najugaqarpunga.	Tallimanik meeraqarlunga Finlandimi najugaqarpunga.

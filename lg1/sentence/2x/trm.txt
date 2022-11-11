@@ -1,0 +1,17 @@
+Kalaallit Nunaat+Sem/Geo+Prop+Trm+Sg+3PlPoss	Kalaallit Nunaannut
+Aasiaat+Sem/Geo+Prop+Trm+Pl	Aasiannut
+Danmark+Sem/Geo+Prop+Trm+Sg	Danmarkimut
+Kangerlussuaq+Sem/Geo+Prop+Trm+Sg	Kangerlussuarmut
+Maniitsoq+Sem/Geo+Prop+Trm+Sg	Maniitsumut
+Nanortalik+Sem/Geo+Prop+Trm+Sg	Nanortalimmut
+Narsaq+Sem/Geo+Prop+Trm+Sg	Narsamut
+Narsarsuaq+Sem/Geo+Prop+Trm+Sg	Narsarsuarmut
+Nuuk+Sem/Geo+Prop+Trm+Sg	Nuummut
+Paamiut+Sem/Geo+Prop+Trm+Pl	Paamiunut
+Pituffik+Sem/Geo+Prop+Trm+Sg	Pituffimmut
+Qaanaaq+Sem/Geo+Prop+Trm+Sg	Qaanaamut
+Qaqortoq+Sem/Geo+Prop+Trm+Sg	Qaqortumut
+Sisimiut+Sem/Geo+Prop+Trm+Pl	Sisimiunut
+Tasiilaq+Sem/Geo+Prop+Trm+Sg	Tasiilamut
+Upernavik+Sem/Geo+Prop+Trm+Sg	Upernavimmut
+Uummannaq+Sem/Geo+Prop+Trm+Sg	Uummannamut

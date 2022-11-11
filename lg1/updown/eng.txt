@@ -1,0 +1,39 @@
+##GLOSSELISTE - gloser##
+akisooq	expensive
+ateq	a name
+illu	a house
+kalaaleq	a Greenlander
+najugaq	a dwelling
+nuliaq	a wife
+qallunaaq	a Dane
+
+ateqar	to be named
+ilinniartip	to lecture someone
+najugaqar	to live in
+suli	to work
+
+taanna	he/ she/ it (previously mentioned)
+uanga	I
+aamma	and
+kalaallisut	in Greenlandic
+
+##GLOSSELISTE - endelser##
++ga	my N
+-mi	localis "in/ at N"
++mi	localis "in/ at N"
+-mik	instrumental "with N"
++mik	instrumental "with N"
+
++vassi	indicative 1.person singular-2.person plural "I - you"
++vuŋa	indicative 1.person singular "I"
++vuq	indicative 3.person singular "he/ she/ it"
+
+##GLOSSELISTE - efterhæng##
++LI	but
++LU	and
+
+##GLOSSELISTE - tilhæng##
+-QAR	to have N/ there are N
+-U	to be N
++MIU	an N-citizen
+-SSA	to Vb-e in the future

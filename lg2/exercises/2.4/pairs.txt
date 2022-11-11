@@ -1,0 +1,5 @@
+01	Anaanaavoq aamma eqqumiitsuliortuuvoq	Anaanaavoq eqqumiitsuliortuullunilu
+02	Ilinniarpunga aamma sulivunga	Ilinniarpunga sulillungalu
+03	Oqaasilerisarpoq aamma qarasaasialerisarpoq	Oqaasilerisarpoq qarasaasialerisarlunilu
+04	Kalaaliuvunga aamma qallunaajuvunga	Kalaaliuvunga qallunaajullungalu
+05	Meeraq anaanaqarpoq aamma ataataqarpoq	Meeraq anaanaqarpoq ataataqarlunilu

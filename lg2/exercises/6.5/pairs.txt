@@ -1,0 +1,23 @@
+01	Qaqortoq	Qaqortumukarpunga
+02	Ivittuut	Ivittuunukarpunga
+03	Ilisimatusarfik	Ilisimatusarfimmukarpunga
+04	Aasiaat	Aasiannukarpunga
+05	Nuussuup atuarfia	Nuussuup atuarfianukarpunga
+06	Tasiilaq	Tasiilamukarpunga
+07	arnannguit	arnannguanukarpunga
+08	angussuit	angussuarnukarpunga
+09	Avanersuaq	Avanersuarmukarpunga
+10	Qasigiannguit	Qasigiannguanukarpunga
+11	mittarfik	mittarfimmukarpunga
+12	Maniitsoq	Maniitsumukarpunga
+13	Københavnip eqqaa	Københavnip eqqaanukarpunga
+14	Ilulissat	Ilulissanukarpunga
+15	Kalaallit Nunaat	Kalaallit Nunaannukarpunga
+16	Kangerlussuaq	Kangerlussuarmukarpunga
+17	taakku eqqaat	taakku eqqaannukarpunga
+18	inuit	inunnukarpunga
+19	aallarusuttut	aallarusuttunukarpunga
+20	anaanakkut	anaanakkunnukarpunga
+21	Narsarsuaq	Narsarsuarmukarpunga
+22	arnap najugaa	arnap najugaanukarpunga
+23	ilinniarnertuunngorniarfik	ilinniarnertuunngorniarfimmukarpunga

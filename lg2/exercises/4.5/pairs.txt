@@ -1,0 +1,9 @@
+01	Per, Thor = angutit, Ilona = arnaq	Per Thorilu angutaapput Ilonali arnaalluni
+02	Kastrup = mittarfik, Pituffik = mittarfik	Kastrup mittarfiuvoq Pituffillu mittarfiulluni
+03	paniga = arnaq, ernera = angut	paniga arnaavoq ernerali angutaalluni
+04	angajora, nukara = angutit, nuliara = arnaq	angajora nukaralu angutaapput nuliarali arnaalluni
+05	Tika = kalaaleq, nuliara = qallunaaq	Tika kalaaliuvoq nuliarali qallunaajulluni
+06	nuliara = qallunaaq, meeqqakka = qallunaat	nuliara qallunaajuvoq meeqqakkalu qallunaajullutik
+07	uanga = qallunaaq, Tika = kalaaleq	uanga qallunaajuvunga Tikali kalaaliulluni
+08	kalaallit = tallimat, qallunaat = tallimat	kalaallit tallimaapput qallunaallu tallimaallutik
+09	paniga angajulleq = adjunkt, paniga nukarleq = suli ilinniar­nertuunngorniarfimmi ilinniartoq	paniga angajulleq adjunktiuvoq panigali nukarleq suli ilinniarnertuunngorniarfimmi ilinniartuulluni

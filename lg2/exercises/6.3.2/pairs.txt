@@ -1,0 +1,14 @@
+01	ilinniarpunga	ilinniarusunngilanga
+02	arnaavoq	arnaarusunngilaq
+03	Kalaallit Nunaannukarput	Kalaallit Nunaannukarusunngillat
+04	Kalaallit Nunaanniippunga	Kalaallit Nunaanniikkusunngilanga
+05	Nuummi inuupput	Nuummi inoorusunngillat
+06	16-iinnarnik ukioqarpunga	16-iinnarnik ukioqarusunngilanga
+07	Kangerlussuarmi najugaqarput	Kangerlussuarmi najugaqarusunngillat
+08	Taamaatipput	Taamaatikkusunngillat
+09	Nuussuup atuarfiani sulivoq	Nuussuup atuarfiani sulerusunngilaq
+10	Angutit tamarmik taamaapput	Angutit tamarmik taamaakkusunngillat
+11	Lektoriinnaavunga	Lektoriinnaarusunngilanga
+12	Inuusuttut ilinniarluarput	Inuusuttut ilinniarluarusunngillat
+13	Angutit siulliupput	Angutit siulliorusunngillat
+14	Meeqqat atualerput	Meeqqat atualerusunngillat

@@ -1,0 +1,24 @@
+01	arnaq	arnaannaq
+02	arnaavoq	arnaannaavoq
+03	mittarfik	mittarfiinnaq
+04	anaanaavoq	anaanaannaavoq
+05	ataataavunga	ataataannaavunga
+06	taakkuupput	taakkuinnaapput
+07	ilinniartut	ilinniartuinnaat
+08	inuusuttoq	inuusuttuinnaq
+09	inuusuttuunngilanga	inuusuttuinnaanngilanga
+10	angajulliit	angajulliinnaat
+11	inuuvoq	inuinnaavoq
+12	qallunaat	qallunaaginnaat	qallunaaginnaat
+13	qatanngutit	qatanngutaannaat
+14	kalaaliupput	kalaaliinnaapput
+15	kalaallit	kalaaliinnaat
+16	meeraq	meeraannaq
+17	meeraanngilanga	meeraannaanngilanga
+18	tallimat	tallimaannaat
+19	angutaavoq	angutaannaavoq
+20	angut	angutaannaq
+21	angutit	angutaannaat
+22	pingasuupput	pingasuinnaapput
+23	siulleq	siulliinnaq
+24	lektoriuvunga	lektoriinnaavunga

@@ -1,0 +1,39 @@
+##GLOSSELISTE - gloser##
+akisooq	dyr
+ateq	et navn
+illu	et hus
+kalaaleq	en grønlænder
+najugaq	en bolig
+nuliaq	en kone
+qallunaaq	en dansker
+
+ateqar	at hedde
+ilinniartip	at undervise nogen
+najugaqar	at bo
+suli	at arbejde
+
+taanna	han/ hun/ den/ det (tidligere nævnte)
+uanga	jeg
+aamma	også
+kalaallisut	på grønlandsk
+
+##GLOSSELISTE - endelser##
++ga	min
+-mi	lokalis "i/ på N"
++mi	lokalis "i/ på N"
+-mik	instrumentalis "med N"
++mik	instrumentalis "med N"
+
++vassi	indikativ 1.ental-2.flertal "jeg - Jer"
++vuŋa	indikativ 1.ental "jeg"
++vuq	indikativ 3. ental "han/ hun/ den/ det"
+
+##GLOSSELISTE - efterhæng##
++LI	men
++LU	og
+
+##GLOSSELISTE - tilhæng##
+-QAR	at have N/ der er N
+-U	at være N
++MIU	en N-beboer
+-SSA	at Vb-e fremtidigt

@@ -1,0 +1,30 @@
+01	Hvad har du?	Soqarpit?
+02	Der er ingenting!	Soqanngilaq
+03	Jeg har ikke lyst til noget som helst	Sorusunngilanga
+04	Hvorhen?	Sumut?
+05	Hvad laver du?	Suit?
+06	Hvad laver han?	Sua?
+07	Hvad laver han i Grønland?	Kalaallit Nunaanni suleriva?
+08	Der er ingenting	Soqanngilaq
+09	Hvad skal du med den?	Sussaviuk?
+10	Jeg skal ikke noget	Sussanngilanga
+11	Hvilken vej?	Sukkut?
+12	Hvad har hun lyst til?	Sorusuppa?
+13	Hvad skal jeg foretage mig?	Sulerissaanga?
+14	Som hvad?	Sutut?
+15	Den mest hvad for noget?	Sunerpaaq?
+16	De foretager sig ikke noget som helst	Sunngivipput
+17	Jeg har ingenting	Soqanngilanga
+18	Hvor er han nu?	Massakkut sumiippa?
+19	Hvor skal jeg tage hen?	Sumukassaanga?
+20	Hvor?	Sumi?
+21	Hvad er han begyndt på?	Sulerpa?
+22	Hvad er din (familie-)relation til ham?	Taanna sugiviuk?
+23	Hvad plejer hun at lave?	Susarpa?
+24	Hvad skal de lave i Danmark?	Danmarkimi sussappat?
+25	Hvad blev han til?	Sunngorpa?
+26	Hvad skal vi lave?	Sussaagut?
+27	Vi skal ikke lave noget!	Sussanngilagut
+28	Blev det en dreng eller en pige?	Sutaarpit?	Brug su+TAAR til en nyslået forælder.
+29	Vil du have en dreng eller en pige?	Sutaarusuppit?	Brug su+TAAR til en vordende forælder.
+30	Hvad foretager han sig dog?	Susoruna?	Brug su+TUQ med sammen UNA i udbrud

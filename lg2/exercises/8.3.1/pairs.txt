@@ -1,0 +1,14 @@
+01	ilinniarpunga	ilinniartorujussuuvunga
+02	ilinniartarpunga	ilinniartorujussuusarpunga
+03	paniga inequnarpoq	paniga inequnartorujussuuvoq
+04	imertarpugut	imertorujussuusarpugut
+05	aallarusuppunga	aallarusuttorujussuuvunga
+06	meeqqat atuarput	meeqqat atuartorujussuupput
+07	ilinniarluarpoq	ilinniarluartorujussuuvoq
+08	taamani nillerpoq	taamani nillertorujussuuvoq
+09	tamaani sulilluarput	tamaani sulilluartorujussuupput
+10	turisteqarpoq	turisteqartorujussuuvoq
+11	timmisartunik nakkartoqarpoq	timmisartunik nakkartoqartorujussuuvoq
+12	tamanna eqqumiippoq	tamanna eqqumiitsorujussuuvoq	*
+13	sulisarpunga	sulisorujussuusarpunga
+14	ingerlalluarpoq	ingerlalluartorujussuuvoq

@@ -1,0 +1,18 @@
+01	Narsaq	Narsami
+02	Ivittuut	Ivittuuni	Ivittooq
+03	Nanortalik	Nanortalimmi
+04	Aasiaat	Aasianni	Aasiak
+05	Qaqortoq	Qaqortumi
+06	Paamiut	Paamiuni	Paamioq
+07	Nuuk	Nuummi
+08	Maniitsoq	Maniitsumi
+09	Sisimiut	Sisimiuni	Sisimioq
+10	Kangaatsiaq	Kangaatsiami
+11	Qasigiannguit	Qasigiannguani	Qasigiannguaq
+12	Ilulissat	Ilulissani	Iluli(ss)aq
+13	Qeqertarsuaq	Qeqertarsuarmi
+14	Uummannaq	Uummannami
+15	Upernavik	Upernavimmi
+16	Avanersuaq	Avanersuarmi
+17	Tasiilaq	Tasiilami
+18	Illoqqortoormiut	Illoqqortoormiuni	Illoqqortoormioq

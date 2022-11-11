@@ -1,0 +1,8 @@
+01	Uanga Perimik ateqarpunga	Nuliara oqarpoq uanga Perimik ateqartunga
+02	Uanga oqaasilerisarpunga	Nuliara oqarpoq uanga oqaasilerisartunga
+03	Uanga ilinniassavunga	Nuliara oqarpoq uanga ilinniassasunga
+04	Uanga ilinniartitsisuuvunga	Nuliara oqarpoq uanga ilinniartitsisuusunga
+05	Uanga kalaaliuvunga	Nuliara oqarpoq uanga kalaaliusunga
+06	Uanga akisuumik illoqarpunga	Nuliara oqarpoq uanga akisuumik illoqartunga
+07	Uanga Ilisimatusarfimmi sulissavunga	Nuliara oqarpoq uanga Ilisimatusarfimmi sulissasunga
+08	Uanga kalaallisut ilinniartarpunga	Nuliara oqarpoq uanga kalaallisut ilinniartartunga

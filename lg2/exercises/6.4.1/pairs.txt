@@ -1,0 +1,13 @@
+01	Ilinniarpunga. Aasakkut ___	Aasakkut ilinniartarpunga
+02	siulliuvoq	siulliusarpoq
+03	Kalaallit Nunaannukarput. Ukiukkut ___	Ukiukkut Kalaallit Nunaannukartarput
+04	Kalaallit Nunaanniippunga. Aasakkut ___	Aasakkut Kalaallit Nunaanniittarpunga
+05	16-iinnarnik ukioqarput	16-iinnarnik ukioqartarput
+06	Kangerlussuarmi najugaqarput	Kangerlussuarmi najugaqartarput
+07	Taamaatipput	Taamaatittarput
+08	Nuussuup atuarfiani sulivoq	Nuussuup atuarfiani sulisarpoq
+09	Angutit tamarmik taamaapput	Angutit tamarmik taamaattarput
+10	Inuusuttut ilinniarluarput	Inuusuttut ilinniarluartarput.
+11	Ilinniartippassi. Ullukkut ___	Ullukkut ilinniartittarpassi
+12	Tamanna akuerivaat	Tamanna akuerisarpaat
+13	Nuup eqqaaniipput	Nuup eqqaaniittarput

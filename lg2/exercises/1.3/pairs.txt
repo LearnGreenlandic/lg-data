@@ -1,0 +1,5 @@
+01	Ilinniartarpit?	Aap, ilinniartarpunga
+02	Sulisarpit?	Aap, sulisarpunga
+03	Oqaasilerisarpit?	Aap, oqaasilerisarpunga
+04	Nuummi najugaqartarpit?	Aap, Nuummi najugaqartarpunga
+05	Kalaallisut ilinniartarpit?	Aap, kalaallisut ilinniartarpunga

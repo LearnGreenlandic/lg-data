@@ -1,0 +1,13 @@
+01	ilinniarpoq	ilinniartoqarpoq
+02	arnat ilinniarput	arnanik ilinniartoqarpoq
+03	meeraqarput	meeraqartoqarpoq
+04	meeqqat atuarput	meeqqanik atuartoqarpoq
+05	ilinniarluarput	ilinniarluartoqarpoq
+06	kalaallit Pituffimmukarput	kalaallinik Pituffimmukartoqarpoq
+07	taamani nipilersorput	taamani nipilersortoqarpoq
+08	tamaani sulilluarput	tamaani sulilluartoqarpoq
+09	taamaatikkusuppoq	taamaatikkusuttoqarpoq
+10	qallunaaq Paamiunut nuuppoq	qallunaanik Paamiunut nuuttoqarpoq
+11	ilinniarnertuut sulerusupput	ilinniarnertuunik sulerusuttoqarpoq
+12	timmisartoq nakkarpoq	timmisartumik nakkartoqarpoq
+13	Nuummut aallarpoq	Nuummut aallartoqarpoq
