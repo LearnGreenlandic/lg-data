@@ -1,0 +1,216 @@
+#Corpus til anden øvelse - Nyt i lektion 5 inkl. kendte prop med ny Ins-endelse. Inddrager også kendte Prop med Abs-endelse fra kumuleret corpus
+ateq+QAR+Sem/be_name+V+Ind+1Sg	ateqarpunga
+ateq+QAR+Sem/be_name+V+Ind+3Sg	ateqarpoq
+illu+iSem/build+QAR+Sem/lodge+V+Ind+1Sg	illoqarpunga
+illu+iSem/build+QAR+Sem/lodge+V+Ind+3Sg	illoqarpoq
+najugaq+QAR+Sem/lodge+V+Ind+1Sg	najugaqarpunga
+najugaq+QAR+Sem/lodge+V+Ind+3Sg	najugaqarpoq
+nuliaq+iSem/Hfam+QAR+V+Ind+1Sg	nuliaqarpunga
+nuliaq+iSem/Hfam+QAR+V+Ind+3Sg	nuliaqarpoq
+suli+Sem/work+V+Ind+1Sg	sulivunga
+suli+Sem/work+V+Ind+3Sg	sulivoq
+Nunatta Atuagaateqarfia+Sem/inst+Sem/Hum+Prop+Ins+Sg+3SgPoss	Nunatta Atuagaateqarfianik
+Katuaq+Sem/inst+Sem/Hum+Prop+Ins+Sg	Katuamik
+Ilisimatusarfik+Sem/inst+Sem/Hum+Prop+Ins+Sg	Ilisimatusarfimmik
+Royal Greenland+Sem/inst+Sem/Hum+Prop+Ins+Sg	Royal Greenlandimik
+Rosing+Sem/Hum+Prop+Ins+Sg	Rosingimik
+Pisiffik+Sem/inst+Sem/Hum+Prop+Ins+Sg	Pisiffimmik
+Egede+Sem/Hum+Prop+Ins+Sg	Egedemik
+Olsen+Sem/Hum+Prop+Ins+Sg	Olsenimik
+Aputsiaq+Sem/Mask+Sem/Hum+Prop+Ins+Sg	Aputsiamik
+Aviaaja+Sem/Fem+Sem/Hum+Prop+Ins+Sg	Aviaajamik
+Arnannguaq+Sem/Fem+Sem/Hum+Prop+Ins+Sg	Arnannguamik
+Malik+Sem/Mask+Sem/Hum+Prop+Ins+Sg	Malimmik
+Nuka+Sem/Mask+Sem/Hum+Prop+Ins+Sg	Nukamik
+
+#Kumuleret corpus - nominer
+
+Aasiaat+Sem/Geo+Prop+Abs+Pl	Aasiaat
+Aasiaat+Sem/Geo+Prop+Trm+Pl	Aasiannut
+Aasiaat+Sem/Geo+Prop+Abl+Pl	Aasiannit
+Aasiaat+Sem/Geo+Prop+Lok+Pl	Aasianni
+
+Aputsiaq+Sem/Mask+Sem/Hum+Prop+Abs+Sg	Aputsiaq
+Aputsiaq+Sem/Mask+Sem/Hum+Prop+Trm+Sg	Aputsiamut
+Aputsiaq+Sem/Mask+Sem/Hum+Prop+Abl+Sg	Aputsiamit
+Aputsiaq+Sem/Mask+Sem/Hum+Prop+Lok+Sg	Aputsiami
+Aputsiaq+Sem/Mask+Sem/Hum+Prop+Ins+Sg	Aputsiamik
+
+Arnannguaq+Sem/Fem+Sem/Hum+Prop+Abs+Sg	Arnannguaq
+Arnannguaq+Sem/Fem+Sem/Hum+Prop+Trm+Sg	Arnannguamut
+Arnannguaq+Sem/Fem+Sem/Hum+Prop+Abl+Sg	Arnannguamit
+Arnannguaq+Sem/Fem+Sem/Hum+Prop+Lok+Sg	Arnannguami
+Arnannguaq+Sem/Fem+Sem/Hum+Prop+Ins+Sg	Arnannguamik
+
+Aviaaja+Sem/Fem+Sem/Hum+Prop+Abs+Sg	Aviaaja
+Aviaaja+Sem/Fem+Sem/Hum+Prop+Trm+Sg	Aviaajamut
+Aviaaja+Sem/Fem+Sem/Hum+Prop+Abl+Sg	Aviaajamit
+Aviaaja+Sem/Fem+Sem/Hum+Prop+Lok+Sg	Aviaajami
+Aviaaja+Sem/Fem+Sem/Hum+Prop+Ins+Sg	Aviaajamik
+
+Danmarki+Sem/Geo+Prop+Abs+Sg	Danmarki
+Danmarki+Sem/Geo+Prop+Trm+Sg	Danmarkimut
+Danmarki+Sem/Geo+Prop+Abl+Sg	Danmarkimit
+Danmarki+Sem/Geo+Prop+Lok+Sg	Danmarkimi
+
+Egede+Sem/Hum+Prop+Abs+Sg	Egede
+Egede+Sem/Hum+Prop+Trm+Sg	Egedemut
+Egede+Sem/Hum+Prop+Abl+Sg	Egedemit
+Egede+Sem/Hum+Prop+Lok+Sg	Egedemi
+Egede+Sem/Hum+Prop+Ins+Sg	Egedemik
+
+Ilisimatusarfik+Sem/inst+Sem/Hum+Prop+Abs+Sg	Ilisimatusarfik
+Ilisimatusarfik+Sem/inst+Sem/Hum+Prop+Trm+Sg	Ilisimatusarfimmut
+Ilisimatusarfik+Sem/inst+Sem/Hum+Prop+Abl+Sg	Ilisimatusarfimmit
+Ilisimatusarfik+Sem/inst+Sem/Hum+Prop+Lok+Sg	Ilisimatusarfimmi
+Ilisimatusarfik+Sem/inst+Sem/Hum+Prop+Ins+Sg	Ilisimatusarfimmik
+
+Kalaallit Nunaat+Sem/Geo+Prop+Abs+Sg+3PlPoss	Kalaallit Nunaat
+Kalaallit Nunaat+Sem/Geo+Prop+Trm+Sg+3PlPoss	Kalaallit Nunaannut
+Kalaallit Nunaat+Sem/Geo+Prop+Abl+Sg+3PlPoss	Kalaallit Nunaannit
+Kalaallit Nunaat+Sem/Geo+Prop+Lok+Sg+3PlPoss	Kalaallit Nunaanni
+
+Kangerlussuaq+Sem/Geo+Prop+Abs+Sg	Kangerlussuaq
+Kangerlussuaq+Sem/Geo+Prop+Trm+Sg	Kangerlussuarmut
+Kangerlussuaq+Sem/Geo+Prop+Abl+Sg	Kangerlussuarmit
+Kangerlussuaq+Sem/Geo+Prop+Lok+Sg	Kangerlussuarmi
+
+Katuaq+Sem/inst+Sem/Hum+Prop+Abs+Sg	Katuaq
+Katuaq+Sem/inst+Sem/Hum+Prop+Trm+Sg	Katuamut
+Katuaq+Sem/inst+Sem/Hum+Prop+Abl+Sg	Katuamit
+Katuaq+Sem/inst+Sem/Hum+Prop+Lok+Sg	Katuami
+Katuaq+Sem/inst+Sem/Hum+Prop+Ins+Sg	Katuamik
+
+Malik+Sem/Mask+Sem/Hum+Prop+Abs+Sg	Malik
+Malik+Sem/Mask+Sem/Hum+Prop+Trm+Sg	Malimmut
+Malik+Sem/Mask+Sem/Hum+Prop+Abl+Sg	Malimmit
+Malik+Sem/Mask+Sem/Hum+Prop+Lok+Sg	Malimmi
+Malik+Sem/Mask+Sem/Hum+Prop+Ins+Sg	Malimmik
+
+Maniitsoq+Sem/Geo+Prop+Abs+Sg	Maniitsoq
+Maniitsoq+Sem/Geo+Prop+Trm+Sg	Maniitsumut
+Maniitsoq+Sem/Geo+Prop+Abl+Sg	Maniitsumit
+Maniitsoq+Sem/Geo+Prop+Lok+Sg	Maniitsumi
+
+Naalakkersuisut+Sem/inst+Sem/Hum+Prop+Abs+Pl	Naalakkersuisut
+Naalakkersuisut+Sem/inst+Sem/Hum+Prop+Trm+Pl	Naalakkersuisunut
+Naalakkersuisut+Sem/inst+Sem/Hum+Prop+Abl+Pl	Naalakkersuisunit
+Naalakkersuisut+Sem/inst+Sem/Hum+Prop+Lok+Pl	Naalakkersuisuni
+
+Nanortalik+Sem/Geo+Prop+Abs+Sg	Nanortalik
+Nanortalik+Sem/Geo+Prop+Trm+Sg	Nanortalimmut
+Nanortalik+Sem/Geo+Prop+Abl+Sg	Nanortalimmit
+Nanortalik+Sem/Geo+Prop+Lok+Sg	Nanortalimmi
+
+Narsaq+Sem/Geo+Prop+Abs+Sg	Narsaq
+Narsaq+Sem/Geo+Prop+Trm+Sg	Narsamut
+Narsaq+Sem/Geo+Prop+Abl+Sg	Narsamit
+Narsaq+Sem/Geo+Prop+Lok+Sg	Narsami
+
+Narsarsuaq+Sem/Geo+Prop+Abs+Sg	Narsarsuaq
+Narsarsuaq+Sem/Geo+Prop+Trm+Sg	Narsarsuarmut
+Narsarsuaq+Sem/Geo+Prop+Abl+Sg	Narsarsuarmit
+Narsarsuaq+Sem/Geo+Prop+Lok+Sg	Narsarsuarmi
+
+Nuka+Sem/Mask+Sem/Hum+Prop+Abs+Sg	Nuka
+Nuka+Sem/Mask+Sem/Hum+Prop+Trm+Sg	Nukamut
+Nuka+Sem/Mask+Sem/Hum+Prop+Abl+Sg	Nukamit
+Nuka+Sem/Mask+Sem/Hum+Prop+Lok+Sg	Nukami
+Nuka+Sem/Mask+Sem/Hum+Prop+Ins+Sg	Nukamik
+
+Nunatta Atuagaateqarfia+Sem/inst+Sem/Hum+Prop+Abs+Sg+3SgPoss	Nunatta Atuagaateqarfia
+Nunatta Atuagaateqarfia+Sem/inst+Sem/Hum+Prop+Trm+Sg+3SgPoss	Nunatta Atuagaateqarfianut
+Nunatta Atuagaateqarfia+Sem/inst+Sem/Hum+Prop+Abl+Sg+3SgPoss	Nunatta Atuagaateqarfianit
+Nunatta Atuagaateqarfia+Sem/inst+Sem/Hum+Prop+Lok+Sg+3SgPoss	Nunatta Atuagaateqarfiani
+Nunatta Atuagaateqarfia+Sem/inst+Sem/Hum+Prop+Ins+Sg+3SgPoss	Nunatta Atuagaateqarfianik
+
+Nuuk+Sem/Geo+Prop+Abs+Sg	Nuuk
+Nuuk+Sem/Geo+Prop+Trm+Sg	Nuummut
+Nuuk+Sem/Geo+Prop+Abl+Sg	Nuummit
+Nuuk+Sem/Geo+Prop+Lok+Sg	Nuummi
+
+Olsen+Sem/Hum+Prop+Abs+Sg	Olsen
+Olsen+Sem/Hum+Prop+Trm+Sg	Olsenimut
+Olsen+Sem/Hum+Prop+Abl+Sg	Olsenimit
+Olsen+Sem/Hum+Prop+Lok+Sg	Olsenimi
+Olsen+Sem/Hum+Prop+Ins+Sg	Olsenimik
+
+Paamiut+Sem/Geo+Prop+Abs+Pl	Paamiut
+Paamiut+Sem/Geo+Prop+Trm+Pl	Paamiunut
+Paamiut+Sem/Geo+Prop+Abl+Pl	Paamiunit
+Paamiut+Sem/Geo+Prop+Lok+Pl	Paamiuni
+
+Pisiffik+Sem/inst+Sem/Hum+Prop+Abs+Sg	Pisiffik
+Pisiffik+Sem/inst+Sem/Hum+Prop+Trm+Sg	Pisiffimmut
+Pisiffik+Sem/inst+Sem/Hum+Prop+Abl+Sg	Pisiffimmit
+Pisiffik+Sem/inst+Sem/Hum+Prop+Lok+Sg	Pisiffimmi
+Pisiffik+Sem/inst+Sem/Hum+Prop+Ins+Sg	Pisiffimmik
+
+Pituffik+Sem/Geo+Prop+Abs+Sg	Pituffik
+Pituffik+Sem/Geo+Prop+Trm+Sg	Pituffimmut
+Pituffik+Sem/Geo+Prop+Abl+Sg	Pituffimmit
+Pituffik+Sem/Geo+Prop+Lok+Sg	Pituffimmi
+
+Qaanaaq+Sem/Geo+Prop+Abs+Sg	Qaanaaq
+Qaanaaq+Sem/Geo+Prop+Trm+Sg	Qaanaamut
+Qaanaaq+Sem/Geo+Prop+Abl+Sg	Qaanaamit
+Qaanaaq+Sem/Geo+Prop+Lok+Sg	Qaanaami
+
+Qaqortoq+Sem/Geo+Prop+Abs+Sg	Qaqortoq
+Qaqortoq+Sem/Geo+Prop+Trm+Sg	Qaqortumut
+Qaqortoq+Sem/Geo+Prop+Abl+Sg	Qaqortumit
+Qaqortoq+Sem/Geo+Prop+Lok+Sg	Qaqortumi
+
+Rosing+Sem/Hum+Prop+Abs+Sg	Rosing
+Rosing+Sem/Hum+Prop+Trm+Sg	Rosingimut
+Rosing+Sem/Hum+Prop+Abl+Sg	Rosingimit
+Rosing+Sem/Hum+Prop+Lok+Sg	Rosingimi
+Rosing+Sem/Hum+Prop+Ins+Sg	Rosingimik
+
+Royal Greenland+Sem/inst+Sem/Hum+Prop+Abs+Sg	Royal Greenland
+Royal Greenland+Sem/inst+Sem/Hum+Prop+Trm+Sg	Royal Greenlandimut
+Royal Greenland+Sem/inst+Sem/Hum+Prop+Abl+Sg	Royal Greenlandimit
+Royal Greenland+Sem/inst+Sem/Hum+Prop+Lok+Sg	Royal Greenlandimi
+Royal Greenland+Sem/inst+Sem/Hum+Prop+Ins+Sg	Royal Greenlandimik
+
+Sisimiut+Sem/Geo+Prop+Abs+Pl	Sisimiut
+Sisimiut+Sem/Geo+Prop+Trm+Pl	Sisimiunut
+Sisimiut+Sem/Geo+Prop+Abl+Pl	Sisimiunit
+Sisimiut+Sem/Geo+Prop+Lok+Pl	Sisimiuni
+
+Tasiilaq+Sem/Geo+Prop+Abs+Sg	Tasiilaq
+Tasiilaq+Sem/Geo+Prop+Trm+Sg	Tasiilamut
+Tasiilaq+Sem/Geo+Prop+Abl+Sg	Tasiilamit
+Tasiilaq+Sem/Geo+Prop+Lok+Sg	Tasiilami
+
+Upernavik+Sem/Geo+Prop+Abs+Sg	Upernavik
+Upernavik+Sem/Geo+Prop+Trm+Sg	Upernavimmut
+Upernavik+Sem/Geo+Prop+Abl+Sg	Upernavimmit
+Upernavik+Sem/Geo+Prop+Lok+Sg	Upernavimmi
+
+Uummannaq+Sem/Geo+Prop+Abs+Sg	Uummannaq
+Uummannaq+Sem/Geo+Prop+Trm+Sg	Uummannamut
+Uummannaq+Sem/Geo+Prop+Abl+Sg	Uummannamit
+Uummannaq+Sem/Geo+Prop+Lok+Sg	Uummannami
+
+ataasinnguaq+Sem/drink+N+Abs+Sg	ataasinnguaq
+ataasinnguaq+Sem/drink+N+Trm+Sg	ataasinnguamut
+ataasinnguaq+Sem/drink+N+Abl+Sg	ataasinnguamit
+ataasinnguaq+Sem/drink+N+Lok+Sg	ataasinnguami
+
+nuuk+Sem/Ltip+N+Abs+Sg	nuuk
+nuuk+Sem/Ltip+N+Trm+Sg	nuummut
+nuuk+Sem/Ltip+N+Abl+Sg	nuummit
+nuuk+Sem/Ltip+N+Lok+Sg	nuummi
+
+paffik+Sem/an+N+Abs+Sg	paffik
+paffik+Sem/an+N+Trm+Sg	paffimmut
+paffik+Sem/an+N+Abl+Sg	paffimmit
+paffik+Sem/an+N+Lok+Sg	paffimmi
+
+
+
+illit+Gram/Pers+Pron+Abs+2Pl	ilissi
+illit+Gram/Pers+Pron+Trm+2Pl	ilissinnut
+illit+Gram/Pers+Pron+Abl+2Pl	ilissinnit
+illit+Gram/Pers+Pron+Lok+2Pl	ilissinni
