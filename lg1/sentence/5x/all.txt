@@ -1,0 +1,704 @@
+## Kapitel 5 - ###17 new verbal wordforms plus 8 known from lesson 3 = 25 verbal wordforms ##
+#Nyt i kapitel 5 som ikke er præsenteret i X-øvelserne
+# aamma, akisooq, kalaallisut
+# nye N i kap. 5: illu, kalaaleq, najugaq, nuliaq, qallunaaq
+# nye V i kap. 5: suli-, N-U
+
+# Udvidelser fra X-øvelser og leksikalt materiale i kapitel 4
+# Nyt derivativ = ###NNGIT
+## Words and morphemes only mentioned in passing i chapter 4 and 5 ##
+# Verbs = ajor, pikkorip, qujaannar, taku, utoqqatser
+# Adverbs = aap, aqaguagu, ippassaq, massakkut, qaqugu, qujanaq
+# Nouns = ataasinnguaq-, nuuk+, paffik+
+# Derivational morphemes = GIARTUR, NIAR, NNGIT, QE, QQIP
+# Inflection = Int+2Sg+3SgO, Int+2Sg
+
+
+#Corpus til første øvelse - Nyt i lektion 5
+ateq+U+Sem/be_copula+V+Ind+3Sg	atiuvoq
+illu+U+Sem/be_copula+V+Ind+3Sg	illuuvoq
+kalaaleq+iSem/Hnat+U+Sem/be_copula+V+Ind+1Sg	kalaaliuvunga
+kalaaleq+iSem/Hnat+U+Sem/be_copula+V+Ind+3Sg	kalaaliuvoq
+najugaq+U+Sem/be_copula+V+Ind+3Sg	najugaavoq
+nuliaq+iSem/Hfam+U+Sem/be_copula+V+Ind+1Sg	nuliaavunga
+nuliaq+iSem/Hfam+U+Sem/be_copula+V+Ind+3Sg	nuliaavoq
+pizza+U+Sem/be_copula+V+Ind+3Sg	pizzaavoq
+tii+iSem/drink+U+Sem/be_copula+V+Ind+3Sg	tiiuvoq
+qallunaaq+iSem/Hnat+U+Sem/be_copula+V+Ind+1Sg	qallunaajuvunga
+qallunaaq+iSem/Hnat+U+Sem/be_copula+V+Ind+3Sg	qallunaajuvoq
+whisky+iSem/drink+U+Sem/be_copula+V+Ind+3Sg	whiskyuvoq
+
+#Corpus til anden øvelse - Nyt i lektion 5 inkl. kendte prop med ny Ins-endelse. Inddrager også kendte Prop med Abs-endelse fra kumuleret corpus
+ateq+QAR+Sem/be_name+V+Ind+1Sg	ateqarpunga
+ateq+QAR+Sem/be_name+V+Ind+3Sg	ateqarpoq
+illu+iSem/build+QAR+Sem/lodge+V+Ind+1Sg	illoqarpunga
+illu+iSem/build+QAR+Sem/lodge+V+Ind+3Sg	illoqarpoq
+najugaq+QAR+Sem/lodge+V+Ind+1Sg	najugaqarpunga
+najugaq+QAR+Sem/lodge+V+Ind+3Sg	najugaqarpoq
+nuliaq+iSem/Hfam+QAR+V+Ind+1Sg	nuliaqarpunga
+nuliaq+iSem/Hfam+QAR+V+Ind+3Sg	nuliaqarpoq
+suli+Sem/work+V+Ind+1Sg	sulivunga
+suli+Sem/work+V+Ind+3Sg	sulivoq
+Nunatta Atuagaateqarfia+Sem/inst+Sem/Hum+Prop+Ins+Sg+3SgPoss	Nunatta Atuagaateqarfianik
+Katuaq+Sem/inst+Sem/Hum+Prop+Ins+Sg	Katuamik
+Ilisimatusarfik+Sem/inst+Sem/Hum+Prop+Ins+Sg	Ilisimatusarfimmik
+Royal Greenland+Sem/inst+Sem/Hum+Prop+Ins+Sg	Royal Greenlandimik
+Rosing+Sem/Hum+Prop+Ins+Sg	Rosingimik
+Pisiffik+Sem/inst+Sem/Hum+Prop+Ins+Sg	Pisiffimmik
+Egede+Sem/Hum+Prop+Ins+Sg	Egedemik
+Olsen+Sem/Hum+Prop+Ins+Sg	Olsenimik
+Aputsiaq+Sem/Mask+Sem/Hum+Prop+Ins+Sg	Aputsiamik
+Aviaaja+Sem/Fem+Sem/Hum+Prop+Ins+Sg	Aviaajamik
+Arnannguaq+Sem/Fem+Sem/Hum+Prop+Ins+Sg	Arnannguamik
+Malik+Sem/Mask+Sem/Hum+Prop+Ins+Sg	Malimmik
+Nuka+Sem/Mask+Sem/Hum+Prop+Ins+Sg	Nukamik
+
+#Corpus til tredie øvelse - Nyt i lektion 5. Som ovenstående plus to Int-fleksiver og GUSUP
+ateq+QAR+Sem/be_name+GUSUP+V+Ind+1Sg	ateqarusuppunga
+ateq+QAR+Sem/be_name+GUSUP+V+Ind+3Sg	ateqarusuppoq
+ateq+QAR+Sem/be_name+V+Int+2Sg	ateqarpit
+ateq+QAR+Sem/be_name+GUSUP+V+Int+2Sg	ateqarusuppit
+illu+iSem/build+QAR+Sem/lodge+GUSUP+V+Ind+1Sg	illoqarusuppunga
+illu+iSem/build+QAR+Sem/lodge+GUSUP+V+Ind+3Sg	illoqarusuppoq
+illu+iSem/build+QAR+Sem/lodge+V+Int+2Sg	illoqarpit
+illu+iSem/build+QAR+Sem/lodge+GUSUP+V+Int+2Sg	illoqarusuppit
+najugaq+QAR+Sem/lodge+GUSUP+V+Ind+1Sg	najugaqarusuppunga
+najugaq+QAR+Sem/lodge+GUSUP+V+Ind+3Sg	najugaqarusuppoq
+najugaq+QAR+Sem/lodge+V+Int+2Sg	najugaqarpit
+najugaq+QAR+Sem/lodge+GUSUP+V+Int+2Sg	najugaqarusuppit
+nuliaq+iSem/Hfam+QAR+GUSUP+V+Ind+1Sg	nuliaqarusuppunga
+nuliaq+iSem/Hfam+QAR+GUSUP+V+Ind+3Sg	nuliaqarusuppoq
+nuliaq+iSem/Hfam+QAR+V+Int+2Sg	nuliaqarpit
+nuliaq+iSem/Hfam+QAR+GUSUP+V+Int+2Sg	nuliaqarusuppit
+suli+Sem/work+GUSUP+V+Ind+1Sg	sulerusuppunga
+suli+Sem/work+GUSUP+V+Ind+3Sg	sulerusuppoq
+suli+Sem/work+V+Int+2Sg	sulivit
+suli+Sem/work+GUSUP+V+Int+2Sg	sulerusuppit
+taku+iSem/see+GUSUP+V+Ind+1Sg+3SgO	takorusuppara
+taku+iSem/see+GUSUP+V+Int+2Sg+3SgO	takorusuppiuk
+taku+Sem/see+V+Ind+1Sg+3SgO	takuara
+taku+Sem/see+V+Int+2Sg+3Sg	takuiuk
+ilinniar+TIP+iSem/teach+GUSUP+V+Ind+1Sg+3SgO	ilinniartikkusuppara
+ilinniar+TIP+iSem/teach+GUSUP+V+Int+2Sg+3SgO	ilinniartikkusuppiuk
+ilinniar+TIP+Sem/teach+V+Ind+1Sg+3SgO	ilinniartippara
+ilinniar+TIP+Sem/teach+V+Int+2Sg+3SgO	ilinniartippiuk
+naapip+iSem/encounter+GUSUP+V+Ind+1Sg+3SgO	naapikkusuppara
+naapip+iSem/encounter+GUSUP+V+Int+2Sg+3SgO	naapikkusuppiuk
+naapip+Sem/encounter+V+Ind+1Sg+3SgO	naapippara
+naapip+Sem/encounter+V+Int+2Sg+3SgO	naapippiuk
+
+#Corpus til fjerde øvelse - NNGIT. Som ovenstående + indikativer med NNGIT
+ajor+Sem/be_attribute+NNGIT+V+Ind+1Sg	ajunngilanga
+ajor+Sem/be_attribute+NNGIT+V+Ind+3Sg	ajunngilaq
+ajor+Sem/be_attribute+GUSUP+NNGIT+V+Ind+1Sg	ajorusunngilanga
+ajor+Sem/be_attribute+GUSUP+NNGIT+V+Ind+3Sg	ajorusunngilaq
+ataasinnguaq+iSem/drink+TUR+Sem/fn:drink+NNGIT+V+Ind+1Sg	ataasinnguartunngilanga
+ataasinnguaq+iSem/drink+TUR+Sem/fn:drink+NNGIT+V+Ind+3Sg	ataasinnguartunngilaq
+ataasinnguaq+iSem/drink+TUR+Sem/fn:drink+GUSUP+NNGIT+V+Ind+1Sg	ataasinnguartorusunngilanga
+ataasinnguaq+iSem/drink+TUR+Sem/fn:drink+GUSUP+NNGIT+V+Ind+3Sg	ataasinnguartorusunngilaq
+ateq+QAR+Sem/be_name+NNGIT+V+Ind+1Sg	ateqanngilanga
+ateq+QAR+Sem/be_name+NNGIT+V+Ind+3Sg	ateqanngilaq
+ateq+QAR+Sem/be_name+GUSUP+NNGIT+V+Ind+1Sg	ateqarusunngilanga
+ateq+QAR+Sem/be_name+GUSUP+NNGIT+V+Ind+3Sg	ateqarusunngilaq
+ilinniar+TIP+iSem/teach+GUSUP+NNGIT+V+Ind+1Sg+3SgO	ilinniartikkusunngilara
+ilinniar+TIP+iSem/teach+GUSUP+NNGIT+V+Ind+1Sg+2PlO	ilinniartikkusunngilassi
+ilinniar+TIP+Sem/teach+NNGIT+V+Ind+1Sg+3SgO	ilinniartinngilara
+ilinniar+TIP+Sem/teach+NNGIT+V+Ind+1Sg+2PlO	ilinniartinngilassi
+illu+iSem/build+QAR+Sem/lodge+NNGIT+V+Ind+1Sg	illoqanngilanga
+illu+iSem/build+QAR+Sem/lodge+NNGIT+V+Ind+3Sg	illoqanngilaq
+illu+iSem/build+QAR+Sem/lodge+GUSUP+NNGIT+V+Ind+1Sg	illoqarusunngilanga
+illu+iSem/build+QAR+Sem/lodge+GUSUP+NNGIT+V+Ind+3Sg	illoqarusunngilaq
+naapip+iSem/encounter+NNGIT+V+Ind+1Sg+3SgO	naapinngilara
+naapip+iSem/encounter+NNGIT+V+Ind+1Sg+2PlO	naapinngilassi
+naapip+iSem/encounter+GUSUP+NNGIT+V+Ind+1Sg+3SgO	naapikkusunngilara
+naapip+iSem/encounter+GUSUP+NNGIT+V+Ind+1Sg+2PlO	naapikkusunngilassi
+najugaq+QAR+Sem/lodge+NNGIT+V+Ind+1Sg	najugaqanngilanga
+najugaq+QAR+Sem/lodge+NNGIT+V+Ind+3Sg	najugaqanngilaq
+najugaq+QAR+Sem/lodge+GUSUP+NNGIT+V+Ind+1Sg	najugaqarusunngilanga
+najugaq+QAR+Sem/lodge+GUSUP+NNGIT+V+Ind+3Sg	najugaqarusunngilaq
+nuliaq+iSem/Hfam+QAR+NNGIT+V+Ind+1Sg	nuliaqanngilanga
+nuliaq+iSem/Hfam+QAR+NNGIT+V+Ind+3Sg	nuliaqanngilaq
+nuliaq+iSem/Hfam+QAR+GUSUP+NNGIT+V+Ind+1Sg	nuliaqarusunngilanga
+nuliaq+iSem/Hfam+QAR+GUSUP+NNGIT+V+Ind+3Sg	nuliaqarusunngilaq
+pikkorip+Sem/be_attribute+NNGIT+V+Ind+1Sg	pikkorinngilanga
+pikkorip+Sem/be_attribute+NNGIT+V+Ind+3Sg	pikkorinngilaq
+pikkorip+Sem/be_attribute+GUSUP+NNGIT+V+Ind+1Sg	pikkorikkusunngilanga
+pikkorip+Sem/be_attribute+GUSUP+NNGIT+V+Ind+3Sg	pikkorikkusunngilaq
+quja+INNAR+Sem/refuse+NNGIT+V+Ind+1Sg	qujaannanngilanga
+quja+INNAR+Sem/refuse+NNGIT+V+Ind+3Sg	qujaannanngilaq
+quja+INNAR+Sem/refuse+GUSUP+NNGIT+V+Ind+1Sg	qujaannarusunngilanga
+quja+INNAR+Sem/refuse+GUSUP+NNGIT+V+Ind+3Sg	qujaannarusunngilaq
+suli+Sem/work+NNGIT+V+Ind+1Sg	sulinngilanga
+suli+Sem/work+NNGIT+V+Ind+3Sg	sulinngilaq
+suli+Sem/work+GUSUP+NNGIT+V+Ind+1Sg	sulerusunngilanga
+suli+Sem/work+GUSUP+NNGIT+V+Ind+3Sg	sulerusunngilaq
+taku+iSem/see+NNGIT+V+Ind+1Sg+3SgO	takunngilara
+taku+iSem/see+NNGIT+V+Ind+1Sg+2PlO	takunngilassi
+taku+iSem/see+GUSUP+NNGIT+V+Ind+1Sg+3SgO	takorusunngilara
+taku+iSem/see+GUSUP+NNGIT+V+Ind+1Sg+2PlO	takorusunngilassi
+taku+iSem/see+GUSUP+NNGIT+V+Ind+1Sg+3SgO	takorusunngilara
+taku+iSem/see+GUSUP+NNGIT+V+Ind+1Sg+2PlO	takorusunngilassi
+taku+Sem/see+NNGIT+V+Ind+1Sg+3SgO	takunngilara
+taku+Sem/see+NNGIT+V+Ind+1Sg+2PlO	takunngilassi
+utoqqatser+Sem/speak_emot+NNGIT+V+Ind+1Sg	utoqqatsinngilanga
+utoqqatser+Sem/speak_emot+NNGIT+V+Ind+3Sg	utoqqatsinngilaq
+utoqqatser+Sem/speak_emot+GUSUP+NNGIT+V+Ind+1Sg	utoqqatserusunngilanga
+utoqqatser+Sem/speak_emot+GUSUP+NNGIT+V+Ind+3Sg	utoqqatserusunngilaq
+
+#Corpus til øvelse 5 - Som de foregående + SSA
+aallar+iSem/run+SSA+V+Ind+1Sg	aallassaanga
+aallar+iSem/run+SSA+V+Ind+3Sg	aallassaaq
+aallar+iSem/run+SSA+V+Int+2Sg	aallassavit
+aallar+iSem/run+SSA+NNGIT+V+Ind+1Sg	aallassanngilanga
+aallar+iSem/run+SSA+NNGIT+V+Ind+3Sg	aallassanngilaq
+ajor+Sem/be_attribute+SSA+V+Ind+1Sg	ajussaanga
+ajor+Sem/be_attribute+SSA+V+Ind+3Sg	ajussaaq
+ajor+Sem/be_attribute+SSA+V+Int+2Sg	ajussavit
+ajor+Sem/be_attribute+SSA+NNGIT+V+Ind+1Sg	ajussanngilanga
+ajor+Sem/be_attribute+SSA+NNGIT+V+Ind+3Sg	ajussanngilaq
+ataasinnguaq+iSem/drink+TUR+Sem/fn:drink+SSA+V+Ind+1Sg	ataasinnguartussaanga
+ataasinnguaq+iSem/drink+TUR+Sem/fn:drink+SSA+V+Ind+3Sg	ataasinnguartussaaq
+ataasinnguaq+iSem/drink+TUR+Sem/fn:drink+SSA+V+Int+2Sg	ataasinnguartussavit
+ataasinnguaq+iSem/drink+TUR+Sem/fn:drink+SSA+NNGIT+V+Ind+1Sg	ataasinnguartussanngilanga
+ataasinnguaq+iSem/drink+TUR+Sem/fn:drink+SSA+NNGIT+V+Ind+3Sg	ataasinnguartussanngilaq
+ilinniar+TIP+Sem/teach+SSA+V+Int+2Sg+3SgO	ilinniartissaviuk
+ilinniar+TIP+iSem/teach+SSA+NNGIT+V+Ind+1Sg+3SgO	ilinniartissanngilara
+ilinniar+TIP+iSem/teach+SSA+NNGIT+V+Ind+1Sg+2PlO	ilinniartissanngilassi
+ilinniar+TIP+Sem/teach+SSA+V+Ind+1Sg+3SgO	ilinniartissavara
+ilinniar+TIP+Sem/teach+SSA+V+Ind+1Sg+2PlO	ilinniartissavassi
+naapip+Sem/encounter+SSA+V+Int+2Sg+3SgO	naapissaviuk
+naapip+iSem/encounter+SSA+V+Ind+1Sg+3SgO	naapissavara
+naapip+iSem/encounter+SSA+V+Ind+1Sg+2PlO	naapissavassi
+naapip+iSem/encounter+SSA+NNGIT+V+Ind+1Sg+3SgO	naapissanngilara
+naapip+iSem/encounter+SSA+NNGIT+V+Ind+1Sg+2PlO	naapissanngilassi
+najugaq+QAR+Sem/lodge+SSA+V+Int+2Sg	najugaqassavit
+najugaq+QAR+Sem/lodge+SSA+V+Ind+1Sg	najugaqassaanga
+najugaq+QAR+Sem/lodge+SSA+V+Ind+3Sg	najugaqassaaq
+najugaq+QAR+Sem/lodge+SSA+NNGIT+V+Ind+1Sg	najugaqassanngilanga
+najugaq+QAR+Sem/lodge+SSA+NNGIT+V+Ind+3Sg	najugaqassanngilaq
+pikkorip+Sem/be_attribute+SSA+V+Int+2Sg	pikkorissavit
+pikkorip+Sem/be_attribute+SSA+V+Ind+1Sg	pikkorissaanga
+pikkorip+Sem/be_attribute+SSA+V+Ind+3Sg	pikkorissaaq
+pikkorip+Sem/be_attribute+SSA+NNGIT+V+Ind+1Sg	pikkorissanngilanga
+pikkorip+Sem/be_attribute+SSA+NNGIT+V+Ind+3Sg	pikkorissanngilaq
+pizza+iSem/food-h+TUR+Sem/eat+SSA+V+Int+2Sg	pizzatussavit
+pizza+iSem/food-h+TUR+Sem/eat+SSA+V+Ind+1Sg	pizzatussaanga
+pizza+iSem/food-h+TUR+Sem/eat+SSA+V+Ind+3Sg	pizzatussaaq
+pizza+iSem/food-h+TUR+Sem/eat+SSA+NNGIT+V+Ind+1Sg	pizzatussanngilanga
+pizza+iSem/food-h+TUR+Sem/eat+SSA+NNGIT+V+Ind+3Sg	pizzatussanngilaq
+quja+INNAR+Sem/refuse+SSA+V+Int+2Sg	qujaannassavit
+quja+INNAR+Sem/refuse+SSA+V+Ind+1Sg	qujaannassaanga
+quja+INNAR+Sem/refuse+SSA+V+Ind+3Sg	qujaannassaaq
+quja+INNAR+Sem/refuse+SSA+NNGIT+V+Ind+1Sg	qujaannassanngilanga
+quja+INNAR+Sem/refuse+SSA+NNGIT+V+Ind+3Sg	qujaannassanngilaq
+suli+Sem/work+SSA+V+Int+2Sg	sulissavit
+suli+Sem/work+SSA+V+Ind+1Sg	sulissaanga
+suli+Sem/work+SSA+V+Ind+3Sg	sulissaaq
+suli+Sem/work+SSA+NNGIT+V+Ind+1Sg	sulissanngilanga
+suli+Sem/work+SSA+NNGIT+V+Ind+3Sg	sulissanngilaq
+taku+Sem/see+SSA+V+Int+2Sg+3Sg	takussaviuk
+taku+iSem/see+SSA+V+Ind+1Sg+3SgO	takussavara
+taku+iSem/see+SSA+V+Ind+1Sg+2PlO	takussavassi
+taku+iSem/see+SSA+NNGIT+V+Ind+1Sg+3SgO	takussanngilara
+taku+iSem/see+SSA+NNGIT+V+Ind+1Sg+2PlO	takussanngilassi
+tii+iSem/drink+TUR+iSem/fn:drink+SSA+V+Int+2Sg	tiitussavit
+tii+iSem/drink+TUR+iSem/fn:drink+SSA+V+Ind+1Sg	tiitussaanga
+tii+iSem/drink+TUR+iSem/fn:drink+SSA+V+Ind+3Sg	tiitussaaq
+tii+iSem/drink+TUR+iSem/fn:drink+SSA+NNGIT+V+Ind+1Sg	tiitussanngilanga
+tii+iSem/drink+TUR+iSem/fn:drink+SSA+NNGIT+V+Ind+3Sg	tiitussanngilaq
+tikip+iSem/reach+SSA+V+Int+2Sg	tikissavit
+tikip+iSem/reach+SSA+V+Ind+1Sg	tikissaanga
+tikip+iSem/reach+SSA+V+Ind+3Sg	tikissaaq
+tikip+iSem/reach+SSA+NNGIT+V+Ind+1Sg	tikissanngilanga
+tikip+iSem/reach+SSA+NNGIT+V+Ind+3Sg	tikissanngilaq
+utoqqatser+Sem/speak_emot+SSA+V+Int+2Sg	utoqqatsissavit
+utoqqatser+Sem/speak_emot+SSA+V+Ind+1Sg	utoqqatsissaanga
+utoqqatser+Sem/speak_emot+SSA+V+Ind+3Sg	utoqqatsissaaq
+utoqqatser+Sem/speak_emot+SSA+NNGIT+V+Ind+1Sg	utoqqatsissanngilanga
+utoqqatser+Sem/speak_emot+SSA+NNGIT+V+Ind+3Sg	utoqqatsissanngilaq
+whisky+TUR+Sem/fn:drink+SSA+V+Int+2Sg	whiskytussavit
+whisky+TUR+Sem/fn:drink+SSA+V+Ind+1Sg	whiskytussaanga
+whisky+TUR+Sem/fn:drink+SSA+V+Ind+3Sg	whiskytussaaq
+whisky+TUR+Sem/fn:drink+SSA+NNGIT+V+Ind+1Sg	whiskytussanngilanga
+whisky+TUR+Sem/fn:drink+SSA+NNGIT+V+Ind+3Sg	whiskytussanngilaq
+
+
+
+
+
+
+#################################################
+#Kumuleret corpus - verber
+
+aallar+Sem/run+V+Ind+1Sg	aallarpunga
+aallar+Sem/run+V+Ind+3Sg	aallarpoq
+aallar+Sem/run+V+Int+2Sg	aallarpit
+aallar+iSem/run+GUSUP+V+Ind+1Sg	aallarusuppunga
+aallar+iSem/run+GUSUP+V+Ind+3Sg	aallarusuppoq
+aallar+iSem/run+GUSUP+V+Int+2Sg	aallarusuppit
+aallar+iSem/run+SSA+V+Ind+1Sg	aallassaanga
+aallar+iSem/run+SSA+V+Ind+3Sg	aallassaaq
+aallar+iSem/run+SSA+V+Int+2Sg	aallassavit
+aallar+iSem/run+SSA+NNGIT+V+Ind+1Sg	aallassanngilanga
+aallar+iSem/run+SSA+NNGIT+V+Ind+3Sg	aallassanngilaq
+
+ajor+Sem/be_attribute+V+Ind+1Sg	ajorpunga
+ajor+Sem/be_attribute+V+Ind+3Sg	ajorpoq
+ajor+Sem/be_attribute+V+Int+2Sg	ajorpit
+ajor+Sem/be_attribute+GUSUP+V+Ind+1Sg	ajorusuppunga
+ajor+Sem/be_attribute+GUSUP+V+Ind+3Sg	ajorusuppoq
+ajor+Sem/be_attribute+GUSUP+V+Int+2Sg	ajorusuppit
+ajor+Sem/be_attribute+NNGIT+V+Ind+1Sg	ajunngilanga
+ajor+Sem/be_attribute+NNGIT+V+Ind+3Sg	ajunngilaq
+ajor+Sem/be_attribute+GUSUP+NNGIT+V+Ind+1Sg	ajorusunngilanga
+ajor+Sem/be_attribute+GUSUP+NNGIT+V+Ind+3Sg	ajorusunngilaq
+ajor+Sem/be_attribute+SSA+V+Ind+1Sg	ajussaanga
+ajor+Sem/be_attribute+SSA+V+Ind+3Sg	ajussaaq
+ajor+Sem/be_attribute+SSA+V+Int+2Sg	ajussavit
+ajor+Sem/be_attribute+SSA+NNGIT+V+Ind+1Sg	ajussanngilanga
+ajor+Sem/be_attribute+SSA+NNGIT+V+Ind+3Sg	ajussanngilaq
+
+ataasinnguaq+iSem/drink+TUR+Sem/fn:drink+V+Ind+1Sg	ataasinnguartorpunga
+ataasinnguaq+iSem/drink+TUR+Sem/fn:drink+V+Ind+3Sg	ataasinnguartorpoq
+ataasinnguaq+iSem/drink+TUR+Sem/fn:drink+V+Int+2Sg	ataasinnguartorpit
+ataasinnguaq+iSem/drink+TUR+Sem/fn:drink+GUSUP+V+Ind+1Sg	ataasinnguartorusuppunga
+ataasinnguaq+iSem/drink+TUR+Sem/fn:drink+GUSUP+V+Ind+3Sg	ataasinnguartorusuppoq
+ataasinnguaq+iSem/drink+TUR+Sem/fn:drink+GUSUP+V+Int+2Sg	ataasinnguartorusuppit
+ataasinnguaq+iSem/drink+TUR+Sem/fn:drink+NNGIT+V+Ind+1Sg	ataasinnguartunngilanga
+ataasinnguaq+iSem/drink+TUR+Sem/fn:drink+NNGIT+V+Ind+3Sg	ataasinnguartunngilaq
+ataasinnguaq+iSem/drink+TUR+Sem/fn:drink+GUSUP+NNGIT+V+Ind+1Sg	ataasinnguartorusunngilanga
+ataasinnguaq+iSem/drink+TUR+Sem/fn:drink+GUSUP+NNGIT+V+Ind+3Sg	ataasinnguartorusunngilaq
+ataasinnguaq+iSem/drink+TUR+Sem/fn:drink+SSA+V+Ind+1Sg	ataasinnguartussaanga
+ataasinnguaq+iSem/drink+TUR+Sem/fn:drink+SSA+V+Ind+3Sg	ataasinnguartussaaq
+ataasinnguaq+iSem/drink+TUR+Sem/fn:drink+SSA+V+Int+2Sg	ataasinnguartussavit
+ataasinnguaq+iSem/drink+TUR+Sem/fn:drink+SSA+NNGIT+V+Ind+1Sg	ataasinnguartussanngilanga
+ataasinnguaq+iSem/drink+TUR+Sem/fn:drink+SSA+NNGIT+V+Ind+3Sg	ataasinnguartussanngilaq
+
+ateq+QAR+Sem/be_name+V+Ind+1Sg	ateqarpunga
+ateq+QAR+Sem/be_name+V+Ind+3Sg	ateqarpoq
+ateq+QAR+Sem/be_name+V+Int+2Sg	ateqarpit
+ateq+QAR+iSem/be_name+GUSUP+V+Ind+1Sg	ateqarusuppunga
+ateq+QAR+iSem/be_name+GUSUP+V+Ind+3Sg	ateqarusuppoq
+ateq+QAR+iSem/be_name+GUSUP+V+Int+2Sg	ateqarusuppit
+ateq+U+Sem/be_copula+V+Ind+3Sg	atiuvoq
+ateq+QAR+Sem/be_name+NNGIT+V+Ind+1Sg	ateqanngilanga
+ateq+QAR+Sem/be_name+NNGIT+V+Ind+3Sg	ateqanngilaq
+ateq+QAR+Sem/be_name+GUSUP+NNGIT+V+Ind+1Sg	ateqarusunngilanga
+ateq+QAR+Sem/be_name+GUSUP+NNGIT+V+Ind+3Sg	ateqarusunngilaq
+
+ilinniar+TIP+iSem/teach+GUSUP+V+Ind+1Sg+3SgO	ilinniartikkusuppara
+ilinniar+TIP+iSem/teach+GUSUP+V+Ind+1Sg+2PlO	ilinniartikkusuppassi
+ilinniar+TIP+iSem/teach+GUSUP+V+Int+2Sg+3SgO	ilinniartikkusuppiuk
+ilinniar+TIP+Sem/teach+V+Ind+1Sg+3SgO	ilinniartippara
+ilinniar+TIP+Sem/teach+V+Ind+1Sg+2PlO	ilinniartippassi
+ilinniar+TIP+Sem/teach+V+Int+2Sg+3SgO	ilinniartippiuk
+ilinniar+TIP+iSem/teach+GUSUP+NNGIT+V+Ind+1Sg+3SgO	ilinniartikkusunngilara
+ilinniar+TIP+iSem/teach+GUSUP+NNGIT+V+Ind+1Sg+2PlO	ilinniartikkusunngilassi
+ilinniar+TIP+Sem/teach+NNGIT+V+Ind+1Sg+3SgO	ilinniartinngilara
+ilinniar+TIP+Sem/teach+NNGIT+V+Ind+1Sg+2PlO	ilinniartinngilassi
+ilinniar+TIP+Sem/teach+SSA+V+Int+2Sg+3SgO	ilinniartissaviuk
+ilinniar+TIP+iSem/teach+SSA+NNGIT+V+Ind+1Sg+3SgO	ilinniartissanngilara
+ilinniar+TIP+iSem/teach+SSA+NNGIT+V+Ind+1Sg+2PlO	ilinniartissanngilassi
+ilinniar+TIP+Sem/teach+SSA+V+Ind+1Sg+3SgO	ilinniartissavara
+ilinniar+TIP+Sem/teach+SSA+V+Ind+1Sg+2PlO	ilinniartissavassi
+
+illu+U+Sem/be_copula+V+Ind+3Sg	illuuvoq
+illu+iSem/build+QAR+Sem/lodge+V+Ind+1Sg	illoqarpunga
+illu+iSem/build+QAR+Sem/lodge+V+Ind+3Sg	illoqarpoq
+illu+iSem/build+QAR+Sem/lodge+GUSUP+V+Ind+1Sg	illoqarusuppunga
+illu+iSem/build+QAR+Sem/lodge+GUSUP+V+Ind+3Sg	illoqarusuppoq
+illu+iSem/build+QAR+Sem/lodge+V+Int+2Sg	illoqarpit
+illu+iSem/build+QAR+Sem/lodge+GUSUP+V+Int+2Sg	illoqarusuppit
+illu+iSem/build+QAR+Sem/lodge+NNGIT+V+Ind+1Sg	illoqanngilanga
+illu+iSem/build+QAR+Sem/lodge+NNGIT+V+Ind+3Sg	illoqanngilaq
+illu+iSem/build+QAR+Sem/lodge+GUSUP+NNGIT+V+Ind+1Sg	illoqarusunngilanga
+illu+iSem/build+QAR+Sem/lodge+GUSUP+NNGIT+V+Ind+3Sg	illoqarusunngilaq
+
+kalaaleq+iSem/Hnat+U+Sem/be_copula+V+Ind+1Sg	kalaaliuvunga
+kalaaleq+iSem/Hnat+U+Sem/be_copula+V+Ind+3Sg	kalaaliuvoq
+
+naapip+iSem/encounter+GUSUP+V+Ind+1Sg+3SgO	naapikkusuppara
+naapip+iSem/encounter+GUSUP+V+Ind+1Sg+2PlO	naapikkusuppassi
+naapip+iSem/encounter+GUSUP+V+Ind+2Sg+3SgO	naapikkusuppiuk
+naapip+Sem/encounter+V+Ind+1Sg+3SgO	naapippara
+naapip+Sem/encounter+V+Ind+1Sg+2PlO	naapippassi
+naapip+Sem/encounter+V+Int+2Sg+3SgO	naapippiuk
+naapip+iSem/encounter+NNGIT+V+Ind+1Sg+3SgO	naapinngilara
+naapip+iSem/encounter+NNGIT+V+Ind+1Sg+2PlO	naapinngilassi
+naapip+iSem/encounter+GUSUP+NNGIT+V+Ind+1Sg+3SgO	naapikkusunngilara
+naapip+iSem/encounter+GUSUP+NNGIT+V+Ind+1Sg+2PlO	naapikkusunngilassi
+naapip+Sem/encounter+SSA+V+Int+2Sg+3SgO	naapissaviuk
+naapip+iSem/encounter+SSA+V+Ind+1Sg+3SgO	naapissavara
+naapip+iSem/encounter+SSA+V+Ind+1Sg+2PlO	naapissavassi
+naapip+iSem/encounter+SSA+NNGIT+V+Ind+1Sg+3SgO	naapissanngilara
+naapip+iSem/encounter+SSA+NNGIT+V+Ind+1Sg+2PlO	naapissanngilassi
+
+najugaq+U+Sem/be_copula+V+Ind+3Sg	najugaavoq
+najugaq+QAR+Sem/lodge+V+Ind+1Sg	najugaqarpunga
+najugaq+QAR+Sem/lodge+V+Ind+3Sg	najugaqarpoq
+najugaq+QAR+Sem/lodge+GUSUP+V+Ind+1Sg	najugaqarusuppunga
+najugaq+QAR+Sem/lodge+GUSUP+V+Ind+3Sg	najugaqarusuppoq
+najugaq+QAR+Sem/lodge+V+Int+2Sg	najugaqarpit
+najugaq+QAR+Sem/lodge+GUSUP+V+Int+2Sg	najugaqarusuppit
+najugaq+QAR+Sem/lodge+NNGIT+V+Ind+1Sg	najugaqanngilanga
+najugaq+QAR+Sem/lodge+NNGIT+V+Ind+3Sg	najugaqanngilaq
+najugaq+QAR+Sem/lodge+GUSUP+NNGIT+V+Ind+1Sg	najugaqarusunngilanga
+najugaq+QAR+Sem/lodge+GUSUP+NNGIT+V+Ind+3Sg	najugaqarusunngilaq
+najugaq+QAR+Sem/lodge+SSA+V+Int+2Sg	najugaqassavit
+najugaq+QAR+Sem/lodge+SSA+V+Ind+1Sg	najugaqassaanga
+najugaq+QAR+Sem/lodge+SSA+V+Ind+3Sg	najugaqassaaq
+najugaq+QAR+Sem/lodge+SSA+NNGIT+V+Ind+1Sg	najugaqassanngilanga
+najugaq+QAR+Sem/lodge+SSA+NNGIT+V+Ind+3Sg	najugaqassanngilaq
+
+nuliaq+iSem/Hfam+U+Sem/be_copula+V+Ind+1Sg	nuliaavunga
+nuliaq+iSem/Hfam+U+Sem/be_copula+V+Ind+3Sg	nuliaavoq
+nuliaq+iSem/Hfam+QAR+V+Ind+1Sg	nuliaqarpunga
+nuliaq+iSem/Hfam+QAR+V+Ind+3Sg	nuliaqarpoq
+nuliaq+iSem/Hfam+QAR+GUSUP+V+Ind+1Sg	nuliaqarusuppunga
+nuliaq+iSem/Hfam+QAR+GUSUP+V+Ind+3Sg	nuliaqarusuppoq
+nuliaq+iSem/Hfam+QAR+V+Int+2Sg	nuliaqarpit
+nuliaq+iSem/Hfam+QAR+GUSUP+V+Int+2Sg	nuliaqarusuppit
+nuliaq+iSem/Hfam+QAR+NNGIT+V+Ind+1Sg	nuliaqanngilanga
+nuliaq+iSem/Hfam+QAR+NNGIT+V+Ind+3Sg	nuliaqanngilaq
+nuliaq+iSem/Hfam+QAR+GUSUP+NNGIT+V+Ind+1Sg	nuliaqarusunngilanga
+nuliaq+iSem/Hfam+QAR+GUSUP+NNGIT+V+Ind+3Sg	nuliaqarusunngilaq
+
+pikkorip+Sem/be_attribute+V+Ind+1Sg	pikkorippunga
+pikkorip+Sem/be_attribute+V+Ind+3Sg	pikkorippoq
+pikkorip+Sem/be_attribute+V+Int+2Sg	pikkorippit
+pikkorip+Sem/be_attribute+GUSUP+V+Ind+1Sg	pikkorikkusuppunga
+pikkorip+Sem/be_attribute+GUSUP+V+Ind+3Sg	pikkorikkusuppoq
+pikkorip+Sem/be_attribute+GUSUP+V+Int+2Sg	pikkorikkusuppit
+pikkorip+Sem/be_attribute+NNGIT+V+Ind+1Sg	pikkorinngilanga
+pikkorip+Sem/be_attribute+NNGIT+V+Ind+3Sg	pikkorinngilaq
+pikkorip+Sem/be_attribute+GUSUP+NNGIT+V+Ind+1Sg	pikkorikkusunngilanga
+pikkorip+Sem/be_attribute+GUSUP+NNGIT+V+Ind+3Sg	pikkorikkusunngilaq
+pikkorip+Sem/be_attribute+SSA+V+Int+2Sg	pikkorissavit
+pikkorip+Sem/be_attribute+SSA+V+Ind+1Sg	pikkorissaanga
+pikkorip+Sem/be_attribute+SSA+V+Ind+3Sg	pikkorissaaq
+pikkorip+Sem/be_attribute+SSA+NNGIT+V+Ind+1Sg	pikkorissanngilanga
+pikkorip+Sem/be_attribute+SSA+NNGIT+V+Ind+3Sg	pikkorissanngilaq
+
+pisiniarfik+QAR+V+Ind+3Sg	pisiniarfeqarpoq
+
+pizza+iSem/food-h+TUR+Sem/eat+V+Ind+1Sg	pizzatorpunga
+pizza+iSem/food-h+TUR+Sem/eat+V+Ind+3Sg	pizzatorpoq
+pizza+iSem/food-h+TUR+Sem/eat+V+Int+2Sg	pizzatorpit
+pizza+iSem/food-h+TUR+Sem/eat+GUSUP+V+Ind+1Sg	pizzatorusuppunga
+pizza+iSem/food-h+TUR+Sem/eat+GUSUP+V+Ind+3Sg	pizzatorusuppoq
+pizza+iSem/food-h+TUR+Sem/eat+GUSUP+V+Int+2Sg	pizzatorusuppit
+pizza+iSem/food-h+TUR+Sem/eat+GUSUP+NNGIT+V+Ind+1Sg	pizzatorusunngilanga
+pizza+iSem/food-h+TUR+Sem/eat+GUSUP+NNGIT+V+Ind+3Sg	pizzatorusunngilaq
+pizza+iSem/food-h+TUR+Sem/eat+SSA+V+Int+2Sg	pizzatussavit
+pizza+iSem/food-h+TUR+Sem/eat+SSA+V+Ind+1Sg	pizzatussaanga
+pizza+iSem/food-h+TUR+Sem/eat+SSA+V+Ind+3Sg	pizzatussaaq
+pizza+iSem/food-h+TUR+Sem/eat+SSA+NNGIT+V+Ind+1Sg	pizzatussanngilanga
+pizza+iSem/food-h+TUR+Sem/eat+SSA+NNGIT+V+Ind+3Sg	pizzatussanngilaq
+pizza+U+Sem/be_copula+V+Ind+3Sg	pizzaavoq
+
+qallunaaq+iSem/Hnat+U+Sem/be_copula+V+Ind+1Sg	qallunaajuvunga
+qallunaaq+iSem/Hnat+U+Sem/be_copula+V+Ind+3Sg	qallunaajuvoq
+
+quja+INNAR+Sem/refuse+V+Ind+1Sg	qujaannarpunga
+quja+INNAR+Sem/refuse+V+Ind+3Sg	qujaannarpoq
+quja+INNAR+Sem/refuse+V+Int+2Sg	qujaannarpit
+quja+INNAR+Sem/refuse+GUSUP+V+Ind+1Sg	qujaannarusuppunga
+quja+INNAR+Sem/refuse+GUSUP+V+Ind+3Sg	qujaannarusuppoq
+quja+INNAR+Sem/refuse+GUSUP+V+Int+2Sg	qujaannarusuppit
+quja+INNAR+Sem/refuse+NNGIT+V+Ind+1Sg	qujaannanngilanga
+quja+INNAR+Sem/refuse+NNGIT+V+Ind+3Sg	qujaannanngilaq
+quja+INNAR+Sem/refuse+GUSUP+NNGIT+V+Ind+1Sg	qujaannarusunngilanga
+quja+INNAR+Sem/refuse+GUSUP+NNGIT+V+Ind+3Sg	qujaannarusunngilaq
+quja+INNAR+Sem/refuse+SSA+V+Int+2Sg	qujaannassavit
+quja+INNAR+Sem/refuse+SSA+V+Ind+1Sg	qujaannassaanga
+quja+INNAR+Sem/refuse+SSA+V+Ind+3Sg	qujaannassaaq
+quja+INNAR+Sem/refuse+SSA+NNGIT+V+Ind+1Sg	qujaannassanngilanga
+quja+INNAR+Sem/refuse+SSA+NNGIT+V+Ind+3Sg	qujaannassanngilaq
+
+suli+Sem/work+V+Ind+1Sg	sulivunga
+suli+Sem/work+V+Ind+3Sg	sulivoq
+suli+Sem/work+GUSUP+V+Ind+1Sg	sulerusuppunga
+suli+Sem/work+GUSUP+V+Ind+3Sg	sulerusuppoq
+suli+Sem/work+V+Int+2Sg	sulivit
+suli+Sem/work+GUSUP+V+Int+2Sg	sulerusuppit
+suli+Sem/work+NNGIT+V+Ind+1Sg	sulinngilanga
+suli+Sem/work+NNGIT+V+Ind+3Sg	sulinngilaq
+suli+Sem/work+GUSUP+NNGIT+V+Ind+1Sg	sulerusunngilanga
+suli+Sem/work+GUSUP+NNGIT+V+Ind+3Sg	sulerusunngilaq
+suli+Sem/work+SSA+V+Int+2Sg	sulissavit
+suli+Sem/work+SSA+V+Ind+1Sg	sulissaanga
+suli+Sem/work+SSA+V+Ind+3Sg	sulissaaq
+suli+Sem/work+SSA+NNGIT+V+Ind+1Sg	sulissanngilanga
+suli+Sem/work+SSA+NNGIT+V+Ind+3Sg	sulissanngilaq
+
+taku+iSem/see+GUSUP+V+Ind+1Sg+3SgO	takorusuppara
+taku+iSem/see+GUSUP+V+Ind+1Sg+2PlO	takorusuppassi
+taku+iSem/see+GUSUP+V+Int+2Sg+3SgO	takorusuppiuk
+taku+Sem/see+V+Ind+1Sg+3SgO	takuara
+taku+Sem/see+V+Ind+1Sg+2PlO	takuassi
+taku+Sem/see+V+Int+2Sg+3Sg	takuiuk
+taku+iSem/see+NNGIT+V+Ind+1Sg+3SgO	takunngilara
+taku+iSem/see+NNGIT+V+Ind+1Sg+2PlO	takunngilassi
+taku+iSem/see+GUSUP+NNGIT+V+Ind+1Sg+3SgO	takorusunngilara
+taku+iSem/see+GUSUP+NNGIT+V+Ind+1Sg+2PlO	takorusunngilassi
+taku+Sem/see+SSA+V+Int+2Sg+3Sg	takussaviuk
+taku+iSem/see+SSA+V+Ind+1Sg+3SgO	takussavara
+taku+iSem/see+SSA+V+Ind+1Sg+2PlO	takussavassi
+taku+iSem/see+SSA+NNGIT+V+Ind+1Sg+3SgO	takussanngilara
+taku+iSem/see+SSA+NNGIT+V+Ind+1Sg+2PlO	takussanngilassi
+
+tii+iSem/drink+TUR+Sem/fn:drink+V+Ind+1Sg	tiitorpunga
+tii+iSem/drink+TUR+Sem/fn:drink+V+Ind+3Sg	tiitorpoq
+tii+iSem/drink+TUR+Sem/fn:drink+V+Int+2Sg	tiitorpit
+tii+iSem/drink+TUR+iSem/fn:drink+GUSUP+V+Int+2Sg	tiitorusuppit
+tii+iSem/drink+TUR+iSem/fn:drink+GUSUP+V+Ind+1Sg	tiitorusuppunga
+tii+iSem/drink+TUR+iSem/fn:drink+GUSUP+V+Ind+3Sg	tiitorusuppoq
+tii+iSem/drink+TUR+iSem/fn:drink+GUSUP+NNGIT+V+Ind+1Sg	tiitorusunngilanga
+tii+iSem/drink+TUR+iSem/fn:drink+GUSUP+NNGIT+V+Ind+3Sg	tiitorusunngilaq
+tii+iSem/drink+U+Sem/be_copula+V+Ind+3Sg	tiiuvoq
+tii+iSem/drink+TUR+iSem/fn:drink+SSA+V+Int+2Sg	tiitussavit
+tii+iSem/drink+TUR+iSem/fn:drink+SSA+V+Ind+1Sg	tiitussaanga
+tii+iSem/drink+TUR+iSem/fn:drink+SSA+V+Ind+3Sg	tiitussaaq
+tii+iSem/drink+TUR+iSem/fn:drink+SSA+NNGIT+V+Ind+1Sg	tiitussanngilanga
+tii+iSem/drink+TUR+iSem/fn:drink+SSA+NNGIT+V+Ind+3Sg	tiitussanngilaq
+
+tikip+Sem/reach+V+Ind+1Sg	tikippunga
+tikip+Sem/reach+V+Ind+3Sg	tikippoq
+tikip+Sem/reach+V+Ind+2Sg	tikippit
+tikip+Sem/reach+NNGIT+V+Ind+1Sg	tikinngilanga
+tikip+Sem/reach+NNGIT+V+Ind+3Sg	tikinngilaq
+tikip+iSem/reach+GUSUP+V+Ind+1Sg	tikikkusuppunga
+tikip+iSem/reach+GUSUP+V+Ind+3Sg	tikikkusuppoq
+tikip+iSem/reach+GUSUP+V+Int+2Sg	tikikkusuppit
+tikip+iSem/reach+GUSUP+NNGIT+V+Ind+1Sg	tikikkusunngilanga
+tikip+iSem/reach+GUSUP+NNGIT+V+Ind+3Sg	tikikkusunngilaq
+tikip+iSem/reach+SSA+V+Int+2Sg	tikissavit
+tikip+iSem/reach+SSA+V+Ind+1Sg	tikissaanga
+tikip+iSem/reach+SSA+V+Ind+3Sg	tikissaaq
+tikip+iSem/reach+SSA+NNGIT+V+Ind+1Sg	tikissanngilanga
+tikip+iSem/reach+SSA+NNGIT+V+Ind+3Sg	tikissanngilaq
+
+utoqqatser+Sem/speak_emot+V+Ind+1Sg	utoqqatserpunga
+utoqqatser+Sem/speak_emot+V+Ind+3Sg	utoqqatserpoq
+utoqqatser+Sem/speak_emot+V+Int+2Sg	utoqqatserpit
+utoqqatser+Sem/speak_emot+GUSUP+V+Ind+1Sg	utoqqatserusuppunga
+utoqqatser+Sem/speak_emot+GUSUP+V+Ind+3Sg	utoqqatserusuppoq
+utoqqatser+Sem/speak_emot+GUSUP+V+Int+2Sg	utoqqatserusuppit
+utoqqatser+Sem/speak_emot+NNGIT+V+Ind+1Sg	utoqqatsinngilanga
+utoqqatser+Sem/speak_emot+NNGIT+V+Ind+3Sg	utoqqatsinngilaq
+utoqqatser+Sem/speak_emot+GUSUP+NNGIT+V+Ind+1Sg	utoqqatserusunngilanga
+utoqqatser+Sem/speak_emot+GUSUP+NNGIT+V+Ind+3Sg	utoqqatserusunngilaq
+utoqqatser+Sem/speak_emot+SSA+V+Int+2Sg	utoqqatsissavit
+utoqqatser+Sem/speak_emot+SSA+V+Ind+1Sg	utoqqatsissaanga
+utoqqatser+Sem/speak_emot+SSA+V+Ind+3Sg	utoqqatsissaaq
+utoqqatser+Sem/speak_emot+SSA+NNGIT+V+Ind+1Sg	utoqqatsissanngilanga
+utoqqatser+Sem/speak_emot+SSA+NNGIT+V+Ind+3Sg	utoqqatsissanngilaq
+
+whisky+iSem/drink+TUR+Sem/fn:drink+V+Ind+1Sg	whiskytorpunga
+whisky+iSem/drink+TUR+Sem/fn:drink+V+Ind+3Sg	whiskytorpoq
+whisky+iSem/drink+TUR+Sem/fn:drink+V+Int+2Sg	whiskytorpit
+whisky+TUR+Sem/fn:drink+GUSUP+V+Ind+1Sg	whiskytorusuppunga
+whisky+TUR+Sem/fn:drink+GUSUP+V+Ind+3Sg	whiskytorusuppoq
+whisky+TUR+Sem/fn:drink+GUSUP+V+Int+2Sg	whiskytorusuppit
+whisky+TUR+Sem/fn:drink+GUSUP+NNGIT+V+Ind+1Sg	whiskytorusunngilanga
+whisky+TUR+Sem/fn:drink+GUSUP+NNGIT+V+Ind+3Sg	whiskytorusunngilaq
+whisky+iSem/drink+U+Sem/be_copula+V+Ind+3Sg	whiskyuvoq
+whisky+TUR+Sem/fn:drink+SSA+V+Int+2Sg	whiskytussavit
+whisky+TUR+Sem/fn:drink+SSA+V+Ind+1Sg	whiskytussaanga
+whisky+TUR+Sem/fn:drink+SSA+V+Ind+3Sg	whiskytussaaq
+whisky+TUR+Sem/fn:drink+SSA+NNGIT+V+Ind+1Sg	whiskytussanngilanga
+whisky+TUR+Sem/fn:drink+SSA+NNGIT+V+Ind+3Sg	whiskytussanngilaq
+
+
+
+#Kumuleret corpus - nominer
+
+Aasiaat+Sem/Geo+Prop+Abs+Pl	Aasiaat
+Aasiaat+Sem/Geo+Prop+Trm+Pl	Aasiannut
+Aasiaat+Sem/Geo+Prop+Abl+Pl	Aasiannit
+Aasiaat+Sem/Geo+Prop+Lok+Pl	Aasianni
+
+Aputsiaq+Sem/Mask+Sem/Hum+Prop+Abs+Sg	Aputsiaq
+Aputsiaq+Sem/Mask+Sem/Hum+Prop+Trm+Sg	Aputsiamut
+Aputsiaq+Sem/Mask+Sem/Hum+Prop+Abl+Sg	Aputsiamit
+Aputsiaq+Sem/Mask+Sem/Hum+Prop+Lok+Sg	Aputsiami
+Aputsiaq+Sem/Mask+Sem/Hum+Prop+Ins+Sg	Aputsiamik
+
+Arnannguaq+Sem/Fem+Sem/Hum+Prop+Abs+Sg	Arnannguaq
+Arnannguaq+Sem/Fem+Sem/Hum+Prop+Trm+Sg	Arnannguamut
+Arnannguaq+Sem/Fem+Sem/Hum+Prop+Abl+Sg	Arnannguamit
+Arnannguaq+Sem/Fem+Sem/Hum+Prop+Lok+Sg	Arnannguami
+Arnannguaq+Sem/Fem+Sem/Hum+Prop+Ins+Sg	Arnannguamik
+
+Aviaaja+Sem/Fem+Sem/Hum+Prop+Abs+Sg	Aviaaja
+Aviaaja+Sem/Fem+Sem/Hum+Prop+Trm+Sg	Aviaajamut
+Aviaaja+Sem/Fem+Sem/Hum+Prop+Abl+Sg	Aviaajamit
+Aviaaja+Sem/Fem+Sem/Hum+Prop+Lok+Sg	Aviaajami
+Aviaaja+Sem/Fem+Sem/Hum+Prop+Ins+Sg	Aviaajamik
+
+Danmarki+Sem/Geo+Prop+Abs+Sg	Danmarki
+Danmarki+Sem/Geo+Prop+Trm+Sg	Danmarkimut
+Danmarki+Sem/Geo+Prop+Abl+Sg	Danmarkimit
+Danmarki+Sem/Geo+Prop+Lok+Sg	Danmarkimi
+
+Egede+Sem/Hum+Prop+Abs+Sg	Egede
+Egede+Sem/Hum+Prop+Trm+Sg	Egedemut
+Egede+Sem/Hum+Prop+Abl+Sg	Egedemit
+Egede+Sem/Hum+Prop+Lok+Sg	Egedemi
+Egede+Sem/Hum+Prop+Ins+Sg	Egedemik
+
+Ilisimatusarfik+Sem/inst+Sem/Hum+Prop+Abs+Sg	Ilisimatusarfik
+Ilisimatusarfik+Sem/inst+Sem/Hum+Prop+Trm+Sg	Ilisimatusarfimmut
+Ilisimatusarfik+Sem/inst+Sem/Hum+Prop+Abl+Sg	Ilisimatusarfimmit
+Ilisimatusarfik+Sem/inst+Sem/Hum+Prop+Lok+Sg	Ilisimatusarfimmi
+Ilisimatusarfik+Sem/inst+Sem/Hum+Prop+Ins+Sg	Ilisimatusarfimmik
+
+Kalaallit Nunaat+Sem/Geo+Prop+Abs+Sg+3PlPoss	Kalaallit Nunaat
+Kalaallit Nunaat+Sem/Geo+Prop+Trm+Sg+3PlPoss	Kalaallit Nunaannut
+Kalaallit Nunaat+Sem/Geo+Prop+Abl+Sg+3PlPoss	Kalaallit Nunaannit
+Kalaallit Nunaat+Sem/Geo+Prop+Lok+Sg+3PlPoss	Kalaallit Nunaanni
+
+Kangerlussuaq+Sem/Geo+Prop+Abs+Sg	Kangerlussuaq
+Kangerlussuaq+Sem/Geo+Prop+Trm+Sg	Kangerlussuarmut
+Kangerlussuaq+Sem/Geo+Prop+Abl+Sg	Kangerlussuarmit
+Kangerlussuaq+Sem/Geo+Prop+Lok+Sg	Kangerlussuarmi
+
+Katuaq+Sem/inst+Sem/Hum+Prop+Abs+Sg	Katuaq
+Katuaq+Sem/inst+Sem/Hum+Prop+Trm+Sg	Katuamut
+Katuaq+Sem/inst+Sem/Hum+Prop+Abl+Sg	Katuamit
+Katuaq+Sem/inst+Sem/Hum+Prop+Lok+Sg	Katuami
+Katuaq+Sem/inst+Sem/Hum+Prop+Ins+Sg	Katuamik
+
+Malik+Sem/Mask+Sem/Hum+Prop+Abs+Sg	Malik
+Malik+Sem/Mask+Sem/Hum+Prop+Trm+Sg	Malimmut
+Malik+Sem/Mask+Sem/Hum+Prop+Abl+Sg	Malimmit
+Malik+Sem/Mask+Sem/Hum+Prop+Lok+Sg	Malimmi
+Malik+Sem/Mask+Sem/Hum+Prop+Ins+Sg	Malimmik
+
+Maniitsoq+Sem/Geo+Prop+Abs+Sg	Maniitsoq
+Maniitsoq+Sem/Geo+Prop+Trm+Sg	Maniitsumut
+Maniitsoq+Sem/Geo+Prop+Abl+Sg	Maniitsumit
+Maniitsoq+Sem/Geo+Prop+Lok+Sg	Maniitsumi
+
+Naalakkersuisut+Sem/inst+Sem/Hum+Prop+Abs+Pl	Naalakkersuisut
+Naalakkersuisut+Sem/inst+Sem/Hum+Prop+Trm+Pl	Naalakkersuisunut
+Naalakkersuisut+Sem/inst+Sem/Hum+Prop+Abl+Pl	Naalakkersuisunit
+Naalakkersuisut+Sem/inst+Sem/Hum+Prop+Lok+Pl	Naalakkersuisuni
+
+Nanortalik+Sem/Geo+Prop+Abs+Sg	Nanortalik
+Nanortalik+Sem/Geo+Prop+Trm+Sg	Nanortalimmut
+Nanortalik+Sem/Geo+Prop+Abl+Sg	Nanortalimmit
+Nanortalik+Sem/Geo+Prop+Lok+Sg	Nanortalimmi
+
+Narsaq+Sem/Geo+Prop+Abs+Sg	Narsaq
+Narsaq+Sem/Geo+Prop+Trm+Sg	Narsamut
+Narsaq+Sem/Geo+Prop+Abl+Sg	Narsamit
+Narsaq+Sem/Geo+Prop+Lok+Sg	Narsami
+
+Narsarsuaq+Sem/Geo+Prop+Abs+Sg	Narsarsuaq
+Narsarsuaq+Sem/Geo+Prop+Trm+Sg	Narsarsuarmut
+Narsarsuaq+Sem/Geo+Prop+Abl+Sg	Narsarsuarmit
+Narsarsuaq+Sem/Geo+Prop+Lok+Sg	Narsarsuarmi
+
+Nuka+Sem/Mask+Sem/Hum+Prop+Abs+Sg	Nuka
+Nuka+Sem/Mask+Sem/Hum+Prop+Trm+Sg	Nukamut
+Nuka+Sem/Mask+Sem/Hum+Prop+Abl+Sg	Nukamit
+Nuka+Sem/Mask+Sem/Hum+Prop+Lok+Sg	Nukami
+Nuka+Sem/Mask+Sem/Hum+Prop+Ins+Sg	Nukamik
+
+Nunatta Atuagaateqarfia+Sem/inst+Sem/Hum+Prop+Abs+Sg+3SgPoss	Nunatta Atuagaateqarfia
+Nunatta Atuagaateqarfia+Sem/inst+Sem/Hum+Prop+Trm+Sg+3SgPoss	Nunatta Atuagaateqarfianut
+Nunatta Atuagaateqarfia+Sem/inst+Sem/Hum+Prop+Abl+Sg+3SgPoss	Nunatta Atuagaateqarfianit
+Nunatta Atuagaateqarfia+Sem/inst+Sem/Hum+Prop+Lok+Sg+3SgPoss	Nunatta Atuagaateqarfiani
+Nunatta Atuagaateqarfia+Sem/inst+Sem/Hum+Prop+Ins+Sg+3SgPoss	Nunatta Atuagaateqarfianik
+
+Nuuk+Sem/Geo+Prop+Abs+Sg	Nuuk
+Nuuk+Sem/Geo+Prop+Trm+Sg	Nuummut
+Nuuk+Sem/Geo+Prop+Abl+Sg	Nuummit
+Nuuk+Sem/Geo+Prop+Lok+Sg	Nuummi
+
+Olsen+Sem/Hum+Prop+Abs+Sg	Olsen
+Olsen+Sem/Hum+Prop+Trm+Sg	Olsenimut
+Olsen+Sem/Hum+Prop+Abl+Sg	Olsenimit
+Olsen+Sem/Hum+Prop+Lok+Sg	Olsenimi
+Olsen+Sem/Hum+Prop+Ins+Sg	Olsenimik
+
+Paamiut+Sem/Geo+Prop+Abs+Pl	Paamiut
+Paamiut+Sem/Geo+Prop+Trm+Pl	Paamiunut
+Paamiut+Sem/Geo+Prop+Abl+Pl	Paamiunit
+Paamiut+Sem/Geo+Prop+Lok+Pl	Paamiuni
+
+Pisiffik+Sem/inst+Sem/Hum+Prop+Abs+Sg	Pisiffik
+Pisiffik+Sem/inst+Sem/Hum+Prop+Trm+Sg	Pisiffimmut
+Pisiffik+Sem/inst+Sem/Hum+Prop+Abl+Sg	Pisiffimmit
+Pisiffik+Sem/inst+Sem/Hum+Prop+Lok+Sg	Pisiffimmi
+Pisiffik+Sem/inst+Sem/Hum+Prop+Ins+Sg	Pisiffimmik
+
+Pituffik+Sem/Geo+Prop+Abs+Sg	Pituffik
+Pituffik+Sem/Geo+Prop+Trm+Sg	Pituffimmut
+Pituffik+Sem/Geo+Prop+Abl+Sg	Pituffimmit
+Pituffik+Sem/Geo+Prop+Lok+Sg	Pituffimmi
+
+Qaanaaq+Sem/Geo+Prop+Abs+Sg	Qaanaaq
+Qaanaaq+Sem/Geo+Prop+Trm+Sg	Qaanaamut
+Qaanaaq+Sem/Geo+Prop+Abl+Sg	Qaanaamit
+Qaanaaq+Sem/Geo+Prop+Lok+Sg	Qaanaami
+
+Qaqortoq+Sem/Geo+Prop+Abs+Sg	Qaqortoq
+Qaqortoq+Sem/Geo+Prop+Trm+Sg	Qaqortumut
+Qaqortoq+Sem/Geo+Prop+Abl+Sg	Qaqortumit
+Qaqortoq+Sem/Geo+Prop+Lok+Sg	Qaqortumi
+
+Rosing+Sem/Hum+Prop+Abs+Sg	Rosing
+Rosing+Sem/Hum+Prop+Trm+Sg	Rosingimut
+Rosing+Sem/Hum+Prop+Abl+Sg	Rosingimit
+Rosing+Sem/Hum+Prop+Lok+Sg	Rosingimi
+Rosing+Sem/Hum+Prop+Ins+Sg	Rosingimik
+
+Royal Greenland+Sem/inst+Sem/Hum+Prop+Abs+Sg	Royal Greenland
+Royal Greenland+Sem/inst+Sem/Hum+Prop+Trm+Sg	Royal Greenlandimut
+Royal Greenland+Sem/inst+Sem/Hum+Prop+Abl+Sg	Royal Greenlandimit
+Royal Greenland+Sem/inst+Sem/Hum+Prop+Lok+Sg	Royal Greenlandimi
+Royal Greenland+Sem/inst+Sem/Hum+Prop+Ins+Sg	Royal Greenlandimik
+
+Sisimiut+Sem/Geo+Prop+Abs+Pl	Sisimiut
+Sisimiut+Sem/Geo+Prop+Trm+Pl	Sisimiunut
+Sisimiut+Sem/Geo+Prop+Abl+Pl	Sisimiunit
+Sisimiut+Sem/Geo+Prop+Lok+Pl	Sisimiuni
+
+Tasiilaq+Sem/Geo+Prop+Abs+Sg	Tasiilaq
+Tasiilaq+Sem/Geo+Prop+Trm+Sg	Tasiilamut
+Tasiilaq+Sem/Geo+Prop+Abl+Sg	Tasiilamit
+Tasiilaq+Sem/Geo+Prop+Lok+Sg	Tasiilami
+
+Upernavik+Sem/Geo+Prop+Abs+Sg	Upernavik
+Upernavik+Sem/Geo+Prop+Trm+Sg	Upernavimmut
+Upernavik+Sem/Geo+Prop+Abl+Sg	Upernavimmit
+Upernavik+Sem/Geo+Prop+Lok+Sg	Upernavimmi
+
+Uummannaq+Sem/Geo+Prop+Abs+Sg	Uummannaq
+Uummannaq+Sem/Geo+Prop+Trm+Sg	Uummannamut
+Uummannaq+Sem/Geo+Prop+Abl+Sg	Uummannamit
+Uummannaq+Sem/Geo+Prop+Lok+Sg	Uummannami
+
+ataasinnguaq+Sem/drink+N+Abs+Sg	ataasinnguaq
+ataasinnguaq+Sem/drink+N+Trm+Sg	ataasinnguamut
+ataasinnguaq+Sem/drink+N+Abl+Sg	ataasinnguamit
+ataasinnguaq+Sem/drink+N+Lok+Sg	ataasinnguami
+
+nuuk+Sem/Ltip+N+Abs+Sg	nuuk
+nuuk+Sem/Ltip+N+Trm+Sg	nuummut
+nuuk+Sem/Ltip+N+Abl+Sg	nuummit
+nuuk+Sem/Ltip+N+Lok+Sg	nuummi
+
+paffik+Sem/an+N+Abs+Sg	paffik
+paffik+Sem/an+N+Trm+Sg	paffimmut
+paffik+Sem/an+N+Abl+Sg	paffimmit
+paffik+Sem/an+N+Lok+Sg	paffimmi
+
+
+
+illit+Gram/Pers+Pron+Abs+2Pl	ilissi
+illit+Gram/Pers+Pron+Trm+2Pl	ilissinnut
+illit+Gram/Pers+Pron+Abl+2Pl	ilissinnit
+illit+Gram/Pers+Pron+Lok+2Pl	ilissinni
