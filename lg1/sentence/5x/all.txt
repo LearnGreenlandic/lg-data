@@ -146,11 +146,11 @@ utoqqatser+Sem/speak_emot+GUSUP+NNGIT+V+Ind+1Sg	utoqqatserusunngilanga
 utoqqatser+Sem/speak_emot+GUSUP+NNGIT+V+Ind+3Sg	utoqqatserusunngilaq
 
 #Corpus til øvelse 5 - Som de foregående + SSA
-aallar+iSem/run+SSA+V+Ind+1Sg	aallassaanga
-aallar+iSem/run+SSA+V+Ind+3Sg	aallassaaq
-aallar+iSem/run+SSA+V+Int+2Sg	aallassavit
-aallar+iSem/run+SSA+NNGIT+V+Ind+1Sg	aallassanngilanga
-aallar+iSem/run+SSA+NNGIT+V+Ind+3Sg	aallassanngilaq
+aallar+Sem/run+SSA+V+Ind+1Sg	aallassaanga
+aallar+Sem/run+SSA+V+Ind+3Sg	aallassaaq
+aallar+Sem/run+SSA+V+Int+2Sg	aallassavit
+aallar+Sem/run+SSA+NNGIT+V+Ind+1Sg	aallassanngilanga
+aallar+Sem/run+SSA+NNGIT+V+Ind+3Sg	aallassanngilaq
 ajor+Sem/be_attribute+SSA+V+Ind+1Sg	ajussaanga
 ajor+Sem/be_attribute+SSA+V+Ind+3Sg	ajussaaq
 ajor+Sem/be_attribute+SSA+V+Int+2Sg	ajussavit
@@ -162,15 +162,15 @@ ataasinnguaq+iSem/drink+TUR+Sem/fn:drink+SSA+V+Int+2Sg	ataasinnguartussavit
 ataasinnguaq+iSem/drink+TUR+Sem/fn:drink+SSA+NNGIT+V+Ind+1Sg	ataasinnguartussanngilanga
 ataasinnguaq+iSem/drink+TUR+Sem/fn:drink+SSA+NNGIT+V+Ind+3Sg	ataasinnguartussanngilaq
 ilinniar+TIP+Sem/teach+SSA+V+Int+2Sg+3SgO	ilinniartissaviuk
-ilinniar+TIP+iSem/teach+SSA+NNGIT+V+Ind+1Sg+3SgO	ilinniartissanngilara
-ilinniar+TIP+iSem/teach+SSA+NNGIT+V+Ind+1Sg+2PlO	ilinniartissanngilassi
+ilinniar+TIP+Sem/teach+SSA+NNGIT+V+Ind+1Sg+3SgO	ilinniartissanngilara
+ilinniar+TIP+Sem/teach+SSA+NNGIT+V+Ind+1Sg+2PlO	ilinniartissanngilassi
 ilinniar+TIP+Sem/teach+SSA+V+Ind+1Sg+3SgO	ilinniartissavara
 ilinniar+TIP+Sem/teach+SSA+V+Ind+1Sg+2PlO	ilinniartissavassi
 naapip+Sem/encounter+SSA+V+Int+2Sg+3SgO	naapissaviuk
-naapip+iSem/encounter+SSA+V+Ind+1Sg+3SgO	naapissavara
-naapip+iSem/encounter+SSA+V+Ind+1Sg+2PlO	naapissavassi
-naapip+iSem/encounter+SSA+NNGIT+V+Ind+1Sg+3SgO	naapissanngilara
-naapip+iSem/encounter+SSA+NNGIT+V+Ind+1Sg+2PlO	naapissanngilassi
+naapip+Sem/encounter+SSA+V+Ind+1Sg+3SgO	naapissavara
+naapip+Sem/encounter+SSA+V+Ind+1Sg+2PlO	naapissavassi
+naapip+Sem/encounter+SSA+NNGIT+V+Ind+1Sg+3SgO	naapissanngilara
+naapip+Sem/encounter+SSA+NNGIT+V+Ind+1Sg+2PlO	naapissanngilassi
 najugaq+QAR+Sem/lodge+SSA+V+Int+2Sg	najugaqassavit
 najugaq+QAR+Sem/lodge+SSA+V+Ind+1Sg	najugaqassaanga
 najugaq+QAR+Sem/lodge+SSA+V+Ind+3Sg	najugaqassaaq
@@ -197,20 +197,20 @@ suli+Sem/work+SSA+V+Ind+3Sg	sulissaaq
 suli+Sem/work+SSA+NNGIT+V+Ind+1Sg	sulissanngilanga
 suli+Sem/work+SSA+NNGIT+V+Ind+3Sg	sulissanngilaq
 taku+Sem/see+SSA+V+Int+2Sg+3Sg	takussaviuk
-taku+iSem/see+SSA+V+Ind+1Sg+3SgO	takussavara
-taku+iSem/see+SSA+V+Ind+1Sg+2PlO	takussavassi
-taku+iSem/see+SSA+NNGIT+V+Ind+1Sg+3SgO	takussanngilara
-taku+iSem/see+SSA+NNGIT+V+Ind+1Sg+2PlO	takussanngilassi
-tii+iSem/drink+TUR+iSem/fn:drink+SSA+V+Int+2Sg	tiitussavit
-tii+iSem/drink+TUR+iSem/fn:drink+SSA+V+Ind+1Sg	tiitussaanga
-tii+iSem/drink+TUR+iSem/fn:drink+SSA+V+Ind+3Sg	tiitussaaq
-tii+iSem/drink+TUR+iSem/fn:drink+SSA+NNGIT+V+Ind+1Sg	tiitussanngilanga
-tii+iSem/drink+TUR+iSem/fn:drink+SSA+NNGIT+V+Ind+3Sg	tiitussanngilaq
-tikip+iSem/reach+SSA+V+Int+2Sg	tikissavit
-tikip+iSem/reach+SSA+V+Ind+1Sg	tikissaanga
-tikip+iSem/reach+SSA+V+Ind+3Sg	tikissaaq
-tikip+iSem/reach+SSA+NNGIT+V+Ind+1Sg	tikissanngilanga
-tikip+iSem/reach+SSA+NNGIT+V+Ind+3Sg	tikissanngilaq
+taku+Sem/see+SSA+V+Ind+1Sg+3SgO	takussavara
+taku+Sem/see+SSA+V+Ind+1Sg+2PlO	takussavassi
+taku+Sem/see+SSA+NNGIT+V+Ind+1Sg+3SgO	takussanngilara
+taku+Sem/see+SSA+NNGIT+V+Ind+1Sg+2PlO	takussanngilassi
+tii+iSem/drink+TUR+Sem/fn:drink+SSA+V+Int+2Sg	tiitussavit
+tii+iSem/drink+TUR+Sem/fn:drink+SSA+V+Ind+1Sg	tiitussaanga
+tii+iSem/drink+TUR+Sem/fn:drink+SSA+V+Ind+3Sg	tiitussaaq
+tii+iSem/drink+TUR+Sem/fn:drink+SSA+NNGIT+V+Ind+1Sg	tiitussanngilanga
+tii+iSem/drink+TUR+Sem/fn:drink+SSA+NNGIT+V+Ind+3Sg	tiitussanngilaq
+tikip+Sem/reach+SSA+V+Int+2Sg	tikissavit
+tikip+Sem/reach+SSA+V+Ind+1Sg	tikissaanga
+tikip+Sem/reach+SSA+V+Ind+3Sg	tikissaaq
+tikip+Sem/reach+SSA+NNGIT+V+Ind+1Sg	tikissanngilanga
+tikip+Sem/reach+SSA+NNGIT+V+Ind+3Sg	tikissanngilaq
 utoqqatser+Sem/speak_emot+SSA+V+Int+2Sg	utoqqatsissavit
 utoqqatser+Sem/speak_emot+SSA+V+Ind+1Sg	utoqqatsissaanga
 utoqqatser+Sem/speak_emot+SSA+V+Ind+3Sg	utoqqatsissaaq
@@ -236,11 +236,11 @@ aallar+Sem/run+V+Int+2Sg	aallarpit
 aallar+iSem/run+GUSUP+V+Ind+1Sg	aallarusuppunga
 aallar+iSem/run+GUSUP+V+Ind+3Sg	aallarusuppoq
 aallar+iSem/run+GUSUP+V+Int+2Sg	aallarusuppit
-aallar+iSem/run+SSA+V+Ind+1Sg	aallassaanga
-aallar+iSem/run+SSA+V+Ind+3Sg	aallassaaq
-aallar+iSem/run+SSA+V+Int+2Sg	aallassavit
-aallar+iSem/run+SSA+NNGIT+V+Ind+1Sg	aallassanngilanga
-aallar+iSem/run+SSA+NNGIT+V+Ind+3Sg	aallassanngilaq
+aallar+Sem/run+SSA+V+Ind+1Sg	aallassaanga
+aallar+Sem/run+SSA+V+Ind+3Sg	aallassaaq
+aallar+Sem/run+SSA+V+Int+2Sg	aallassavit
+aallar+Sem/run+SSA+NNGIT+V+Ind+1Sg	aallassanngilanga
+aallar+Sem/run+SSA+NNGIT+V+Ind+3Sg	aallassanngilaq
 
 ajor+Sem/be_attribute+V+Ind+1Sg	ajorpunga
 ajor+Sem/be_attribute+V+Ind+3Sg	ajorpoq
@@ -297,8 +297,8 @@ ilinniar+TIP+iSem/teach+GUSUP+NNGIT+V+Ind+1Sg+2PlO	ilinniartikkusunngilassi
 ilinniar+TIP+Sem/teach+NNGIT+V+Ind+1Sg+3SgO	ilinniartinngilara
 ilinniar+TIP+Sem/teach+NNGIT+V+Ind+1Sg+2PlO	ilinniartinngilassi
 ilinniar+TIP+Sem/teach+SSA+V+Int+2Sg+3SgO	ilinniartissaviuk
-ilinniar+TIP+iSem/teach+SSA+NNGIT+V+Ind+1Sg+3SgO	ilinniartissanngilara
-ilinniar+TIP+iSem/teach+SSA+NNGIT+V+Ind+1Sg+2PlO	ilinniartissanngilassi
+ilinniar+TIP+Sem/teach+SSA+NNGIT+V+Ind+1Sg+3SgO	ilinniartissanngilara
+ilinniar+TIP+Sem/teach+SSA+NNGIT+V+Ind+1Sg+2PlO	ilinniartissanngilassi
 ilinniar+TIP+Sem/teach+SSA+V+Ind+1Sg+3SgO	ilinniartissavara
 ilinniar+TIP+Sem/teach+SSA+V+Ind+1Sg+2PlO	ilinniartissavassi
 
@@ -328,10 +328,10 @@ naapip+iSem/encounter+NNGIT+V+Ind+1Sg+2PlO	naapinngilassi
 naapip+iSem/encounter+GUSUP+NNGIT+V+Ind+1Sg+3SgO	naapikkusunngilara
 naapip+iSem/encounter+GUSUP+NNGIT+V+Ind+1Sg+2PlO	naapikkusunngilassi
 naapip+Sem/encounter+SSA+V+Int+2Sg+3SgO	naapissaviuk
-naapip+iSem/encounter+SSA+V+Ind+1Sg+3SgO	naapissavara
-naapip+iSem/encounter+SSA+V+Ind+1Sg+2PlO	naapissavassi
-naapip+iSem/encounter+SSA+NNGIT+V+Ind+1Sg+3SgO	naapissanngilara
-naapip+iSem/encounter+SSA+NNGIT+V+Ind+1Sg+2PlO	naapissanngilassi
+naapip+Sem/encounter+SSA+V+Ind+1Sg+3SgO	naapissavara
+naapip+Sem/encounter+SSA+V+Ind+1Sg+2PlO	naapissavassi
+naapip+Sem/encounter+SSA+NNGIT+V+Ind+1Sg+3SgO	naapissanngilara
+naapip+Sem/encounter+SSA+NNGIT+V+Ind+1Sg+2PlO	naapissanngilassi
 
 najugaq+U+Sem/be_copula+V+Ind+3Sg	najugaavoq
 najugaq+QAR+Sem/lodge+V+Ind+1Sg	najugaqarpunga
@@ -442,10 +442,10 @@ taku+iSem/see+NNGIT+V+Ind+1Sg+2PlO	takunngilassi
 taku+iSem/see+GUSUP+NNGIT+V+Ind+1Sg+3SgO	takorusunngilara
 taku+iSem/see+GUSUP+NNGIT+V+Ind+1Sg+2PlO	takorusunngilassi
 taku+Sem/see+SSA+V+Int+2Sg+3Sg	takussaviuk
-taku+iSem/see+SSA+V+Ind+1Sg+3SgO	takussavara
-taku+iSem/see+SSA+V+Ind+1Sg+2PlO	takussavassi
-taku+iSem/see+SSA+NNGIT+V+Ind+1Sg+3SgO	takussanngilara
-taku+iSem/see+SSA+NNGIT+V+Ind+1Sg+2PlO	takussanngilassi
+taku+Sem/see+SSA+V+Ind+1Sg+3SgO	takussavara
+taku+Sem/see+SSA+V+Ind+1Sg+2PlO	takussavassi
+taku+Sem/see+SSA+NNGIT+V+Ind+1Sg+3SgO	takussanngilara
+taku+Sem/see+SSA+NNGIT+V+Ind+1Sg+2PlO	takussanngilassi
 
 tii+iSem/drink+TUR+Sem/fn:drink+V+Ind+1Sg	tiitorpunga
 tii+iSem/drink+TUR+Sem/fn:drink+V+Ind+3Sg	tiitorpoq
@@ -456,11 +456,11 @@ tii+iSem/drink+TUR+iSem/fn:drink+GUSUP+V+Ind+3Sg	tiitorusuppoq
 tii+iSem/drink+TUR+iSem/fn:drink+GUSUP+NNGIT+V+Ind+1Sg	tiitorusunngilanga
 tii+iSem/drink+TUR+iSem/fn:drink+GUSUP+NNGIT+V+Ind+3Sg	tiitorusunngilaq
 tii+iSem/drink+U+Sem/be_copula+V+Ind+3Sg	tiiuvoq
-tii+iSem/drink+TUR+iSem/fn:drink+SSA+V+Int+2Sg	tiitussavit
-tii+iSem/drink+TUR+iSem/fn:drink+SSA+V+Ind+1Sg	tiitussaanga
-tii+iSem/drink+TUR+iSem/fn:drink+SSA+V+Ind+3Sg	tiitussaaq
-tii+iSem/drink+TUR+iSem/fn:drink+SSA+NNGIT+V+Ind+1Sg	tiitussanngilanga
-tii+iSem/drink+TUR+iSem/fn:drink+SSA+NNGIT+V+Ind+3Sg	tiitussanngilaq
+tii+iSem/drink+TUR+Sem/fn:drink+SSA+V+Int+2Sg	tiitussavit
+tii+iSem/drink+TUR+Sem/fn:drink+SSA+V+Ind+1Sg	tiitussaanga
+tii+iSem/drink+TUR+Sem/fn:drink+SSA+V+Ind+3Sg	tiitussaaq
+tii+iSem/drink+TUR+Sem/fn:drink+SSA+NNGIT+V+Ind+1Sg	tiitussanngilanga
+tii+iSem/drink+TUR+Sem/fn:drink+SSA+NNGIT+V+Ind+3Sg	tiitussanngilaq
 
 tikip+Sem/reach+V+Ind+1Sg	tikippunga
 tikip+Sem/reach+V+Ind+3Sg	tikippoq
@@ -472,11 +472,11 @@ tikip+iSem/reach+GUSUP+V+Ind+3Sg	tikikkusuppoq
 tikip+iSem/reach+GUSUP+V+Int+2Sg	tikikkusuppit
 tikip+iSem/reach+GUSUP+NNGIT+V+Ind+1Sg	tikikkusunngilanga
 tikip+iSem/reach+GUSUP+NNGIT+V+Ind+3Sg	tikikkusunngilaq
-tikip+iSem/reach+SSA+V+Int+2Sg	tikissavit
-tikip+iSem/reach+SSA+V+Ind+1Sg	tikissaanga
-tikip+iSem/reach+SSA+V+Ind+3Sg	tikissaaq
-tikip+iSem/reach+SSA+NNGIT+V+Ind+1Sg	tikissanngilanga
-tikip+iSem/reach+SSA+NNGIT+V+Ind+3Sg	tikissanngilaq
+tikip+Sem/reach+SSA+V+Int+2Sg	tikissavit
+tikip+Sem/reach+SSA+V+Ind+1Sg	tikissaanga
+tikip+Sem/reach+SSA+V+Ind+3Sg	tikissaaq
+tikip+Sem/reach+SSA+NNGIT+V+Ind+1Sg	tikissanngilanga
+tikip+Sem/reach+SSA+NNGIT+V+Ind+3Sg	tikissanngilaq
 
 utoqqatser+Sem/speak_emot+V+Ind+1Sg	utoqqatserpunga
 utoqqatser+Sem/speak_emot+V+Ind+3Sg	utoqqatserpoq

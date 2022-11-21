@@ -1,0 +1,13 @@
+#Corpus til første øvelse - Nyt i lektion 5
+ateq+U+Sem/be_copula+V+Ind+3Sg	atiuvoq
+illu+U+Sem/be_copula+V+Ind+3Sg	illuuvoq
+kalaaleq+iSem/Hnat+U+Sem/be_copula+V+Ind+1Sg	kalaaliuvunga
+kalaaleq+iSem/Hnat+U+Sem/be_copula+V+Ind+3Sg	kalaaliuvoq
+najugaq+U+Sem/be_copula+V+Ind+3Sg	najugaavoq
+nuliaq+iSem/Hfam+U+Sem/be_copula+V+Ind+1Sg	nuliaavunga
+nuliaq+iSem/Hfam+U+Sem/be_copula+V+Ind+3Sg	nuliaavoq
+pizza+U+Sem/be_copula+V+Ind+3Sg	pizzaavoq
+tii+iSem/drink+U+Sem/be_copula+V+Ind+3Sg	tiiuvoq
+qallunaaq+iSem/Hnat+U+Sem/be_copula+V+Ind+1Sg	qallunaajuvunga
+qallunaaq+iSem/Hnat+U+Sem/be_copula+V+Ind+3Sg	qallunaajuvoq
+whisky+iSem/drink+U+Sem/be_copula+V+Ind+3Sg	whiskyuvoq
