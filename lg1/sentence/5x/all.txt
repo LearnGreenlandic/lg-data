@@ -236,6 +236,8 @@ aallar+Sem/run+V+Int+2Sg	aallarpit
 aallar+iSem/run+GUSUP+V+Ind+1Sg	aallarusuppunga
 aallar+iSem/run+GUSUP+V+Ind+3Sg	aallarusuppoq
 aallar+iSem/run+GUSUP+V+Int+2Sg	aallarusuppit
+aallar+Sem/run+NNGIT+V+Ind+1Sg	aallanngilanga
+aallar+Sem/run+NNGIT+V+Ind+3Sg	aallanngilaq
 aallar+Sem/run+SSA+V+Ind+1Sg	aallassaanga
 aallar+Sem/run+SSA+V+Ind+3Sg	aallassaaq
 aallar+Sem/run+SSA+V+Int+2Sg	aallassavit
@@ -502,12 +504,15 @@ whisky+TUR+Sem/fn:drink+GUSUP+V+Ind+3Sg	whiskytorusuppoq
 whisky+TUR+Sem/fn:drink+GUSUP+V+Int+2Sg	whiskytorusuppit
 whisky+TUR+Sem/fn:drink+GUSUP+NNGIT+V+Ind+1Sg	whiskytorusunngilanga
 whisky+TUR+Sem/fn:drink+GUSUP+NNGIT+V+Ind+3Sg	whiskytorusunngilaq
-whisky+iSem/drink+U+Sem/be_copula+V+Ind+3Sg	whiskyuvoq
+whisky+iSem/drink+TUR+Sem/fn:drink+NNGIT+V+Ind+1Sg	whiskytunngilanga
+whisky+iSem/drink+TUR+Sem/fn:drink+NNGIT+V+Ind+3Sg	whiskytunngilaq
 whisky+TUR+Sem/fn:drink+SSA+V+Int+2Sg	whiskytussavit
 whisky+TUR+Sem/fn:drink+SSA+V+Ind+1Sg	whiskytussaanga
 whisky+TUR+Sem/fn:drink+SSA+V+Ind+3Sg	whiskytussaaq
 whisky+TUR+Sem/fn:drink+SSA+NNGIT+V+Ind+1Sg	whiskytussanngilanga
 whisky+TUR+Sem/fn:drink+SSA+NNGIT+V+Ind+3Sg	whiskytussanngilaq
+whisky+iSem/drink+U+Sem/be_copula+V+Ind+3Sg	whiskyuvoq
+whisky+iSem/drink+U+Sem/be_copula+NNGIT+V+Ind+3Sg	whiskyunngilaq
 
 
 
