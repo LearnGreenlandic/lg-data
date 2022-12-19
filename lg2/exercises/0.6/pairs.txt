@@ -1,0 +1,7 @@
+01	ilinniartikkaluar-	ilinniartikkaluagara
+02	eqqaama-	eqqaamasara
+03	taa-	taasara
+04	ilinniartip-	ilinniartitara
+05	taagaluar-	taagaluagara
+06	ilinniartittar-	ilinniartittagara
+07	eqqaamagaluar-	eqqaamagaluagara
