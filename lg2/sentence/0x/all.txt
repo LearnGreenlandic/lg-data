@@ -1344,10 +1344,12 @@ tutsiuteqqip+iSem/learn+TAR+TUQ+N+Trm+Sg	tutsiuteqqittartumut
 tutsiuteqqip+iSem/learn+TAR+TUQ+N+Abl+Sg	tutsiuteqqittartumit
 tutsiuteqqip+iSem/learn+TAR+TUQ+N+Lok+Sg	tutsiuteqqittartumi
 
-
-
-
-illit+Gram/Pers+Pron+Abs+2Pl	ilissi
-illit+Gram/Pers+Pron+Trm+2Pl	ilissinnut
-illit+Gram/Pers+Pron+Abl+2Pl	ilissinnit
-illit+Gram/Pers+Pron+Lok+2Pl	ilissinni
+#illit+Gram/Pers+Pron+Abs+2Pl	ilissi
+#illit+Gram/Pers+Pron+Trm+2Pl	ilissinnut
+#illit+Gram/Pers+Pron+Abl+2Pl	ilissinnit
+#illit+Gram/Pers+Pron+Lok+2Pl	ilissinni
+# Fake baseform
+ilissi+Gram/Pers+Pron+Abs+2Pl	ilissi
+ilissi+Gram/Pers+Pron+Trm+2Pl	ilissinnut
+ilissi+Gram/Pers+Pron+Abl+2Pl	ilissinnit
+ilissi+Gram/Pers+Pron+Lok+2Pl	ilissinni

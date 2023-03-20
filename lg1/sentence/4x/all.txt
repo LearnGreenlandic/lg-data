@@ -204,12 +204,20 @@ aallar+Gram/IV+Sem/run+Gram/IV+V+Ind+1Sg	aallarpunga
 aallar+Gram/IV+Sem/run+Gram/IV+V+Ind+3Sg	aallarpoq
 tikip+Gram/IV+Sem/reach+V+Ind+1Sg	tikippunga
 tikip+Gram/IV+Sem/reach+V+Ind+3Sg	tikippoq
-ilinniar+Gram/IV+TIP+Der/vv+Gram/TV+Sem/teach+Gram/TV+V+Ind+1Sg+3SgO	ilinniartippara
-ilinniar+Gram/IV+TIP+Der/vv+Gram/TV+Sem/teach+Gram/TV+V+Ind+1Sg+2PlO	ilinniartippassi
+#ilinniar+Gram/IV+TIP+Der/vv+Gram/TV+Sem/teach+Gram/TV+V+Ind+1Sg+3SgO	ilinniartippara
+#ilinniar+Gram/IV+TIP+Der/vv+Gram/TV+Sem/teach+Gram/TV+V+Ind+1Sg+2PlO	ilinniartippassi
+# Fake baseform
+ilinniartip+Der/vv+Gram/TV+Sem/teach+Gram/TV+V+Ind+1Sg+3SgO	ilinniartippara
+ilinniartip+Der/vv+Gram/TV+Sem/teach+Gram/TV+V+Ind+1Sg+2PlO	ilinniartippassi
 naapip+Gram/TV+Sem/encounter+V+Ind+1Sg+3SgO	naapippara
 naapip+Gram/TV+Sem/encounter+V+Ind+1Sg+2PlO	naapippassi
 
-illit+Gram/Pers+Pron+Abs+2Pl	ilissi
-illit+Gram/Pers+Pron+Trm+2Pl	ilissinnut
-illit+Gram/Pers+Pron+Abl+2Pl	ilissinnit
-illit+Gram/Pers+Pron+Lok+2Pl	ilissinni
+#illit+Gram/Pers+Pron+Abs+2Pl	ilissi
+#illit+Gram/Pers+Pron+Trm+2Pl	ilissinnut
+#illit+Gram/Pers+Pron+Abl+2Pl	ilissinnit
+#illit+Gram/Pers+Pron+Lok+2Pl	ilissinni
+# Fake baseform
+ilissi+Gram/Pers+Pron+Abs+2Pl	ilissi
+ilissi+Gram/Pers+Pron+Trm+2Pl	ilissinnut
+ilissi+Gram/Pers+Pron+Abl+2Pl	ilissinnit
+ilissi+Gram/Pers+Pron+Lok+2Pl	ilissinni

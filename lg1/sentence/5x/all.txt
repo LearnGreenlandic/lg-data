@@ -108,10 +108,10 @@ illu+iSem/build+QAR+Sem/lodge+NNGIT+V+Ind+1Sg	illoqanngilanga
 illu+iSem/build+QAR+Sem/lodge+NNGIT+V+Ind+3Sg	illoqanngilaq
 illu+iSem/build+QAR+Sem/lodge+GUSUP+NNGIT+V+Ind+1Sg	illoqarusunngilanga
 illu+iSem/build+QAR+Sem/lodge+GUSUP+NNGIT+V+Ind+3Sg	illoqarusunngilaq
-naapip+iSem/encounter+NNGIT+V+Ind+1Sg+3SgO	naapinngilara
-naapip+iSem/encounter+NNGIT+V+Ind+1Sg+2PlO	naapinngilassi
-naapip+Sem/encounter+GUSUP+NNGIT+V+Ind+1Sg+3SgO	naapikkusunngilara
-naapip+Sem/encounter+GUSUP+NNGIT+V+Ind+1Sg+2PlO	naapikkusunngilassi
+naapip+iSem/encounter+GUSUP+NNGIT+V+Ind+1Sg+3SgO	naapikkusunngilara
+naapip+iSem/encounter+GUSUP+NNGIT+V+Ind+1Sg+2PlO	naapikkusunngilassi
+naapip+Sem/encounter+NNGIT+V+Ind+1Sg+3SgO	naapinngilara
+naapip+Sem/encounter+NNGIT+V+Ind+1Sg+2PlO	naapinngilassi
 najugaq+QAR+Sem/lodge+NNGIT+V+Ind+1Sg	najugaqanngilanga
 najugaq+QAR+Sem/lodge+NNGIT+V+Ind+3Sg	najugaqanngilaq
 najugaq+QAR+Sem/lodge+GUSUP+NNGIT+V+Ind+1Sg	najugaqarusunngilanga
@@ -701,9 +701,12 @@ paffik+Sem/an+N+Trm+Sg	paffimmut
 paffik+Sem/an+N+Abl+Sg	paffimmit
 paffik+Sem/an+N+Lok+Sg	paffimmi
 
-
-
-illit+Gram/Pers+Pron+Abs+2Pl	ilissi
-illit+Gram/Pers+Pron+Trm+2Pl	ilissinnut
-illit+Gram/Pers+Pron+Abl+2Pl	ilissinnit
-illit+Gram/Pers+Pron+Lok+2Pl	ilissinni
+#illit+Gram/Pers+Pron+Abs+2Pl	ilissi
+#illit+Gram/Pers+Pron+Trm+2Pl	ilissinnut
+#illit+Gram/Pers+Pron+Abl+2Pl	ilissinnit
+#illit+Gram/Pers+Pron+Lok+2Pl	ilissinni
+# Fake baseform
+ilissi+Gram/Pers+Pron+Abs+2Pl	ilissi
+ilissi+Gram/Pers+Pron+Trm+2Pl	ilissinnut
+ilissi+Gram/Pers+Pron+Abl+2Pl	ilissinnit
+ilissi+Gram/Pers+Pron+Lok+2Pl	ilissinni
