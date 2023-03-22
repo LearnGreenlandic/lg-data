@@ -216,11 +216,11 @@ utoqqatser+Sem/speak_emot+SSA+V+Ind+1Sg	utoqqatsissaanga
 utoqqatser+Sem/speak_emot+SSA+V+Ind+3Sg	utoqqatsissaaq
 utoqqatser+Sem/speak_emot+SSA+NNGIT+V+Ind+1Sg	utoqqatsissanngilanga
 utoqqatser+Sem/speak_emot+SSA+NNGIT+V+Ind+3Sg	utoqqatsissanngilaq
-whisky+TUR+Sem/fn:drink+SSA+V+Int+2Sg	whiskytussavit
-whisky+TUR+Sem/fn:drink+SSA+V+Ind+1Sg	whiskytussaanga
-whisky+TUR+Sem/fn:drink+SSA+V+Ind+3Sg	whiskytussaaq
-whisky+TUR+Sem/fn:drink+SSA+NNGIT+V+Ind+1Sg	whiskytussanngilanga
-whisky+TUR+Sem/fn:drink+SSA+NNGIT+V+Ind+3Sg	whiskytussanngilaq
+whisky+iSem/drink+TUR+Sem/fn:drink+SSA+V+Int+2Sg	whiskytussavit
+whisky+iSem/drink+TUR+Sem/fn:drink+SSA+V+Ind+1Sg	whiskytussaanga
+whisky+iSem/drink+TUR+Sem/fn:drink+SSA+V+Ind+3Sg	whiskytussaaq
+whisky+iSem/drink+TUR+Sem/fn:drink+SSA+NNGIT+V+Ind+1Sg	whiskytussanngilanga
+whisky+iSem/drink+TUR+Sem/fn:drink+SSA+NNGIT+V+Ind+3Sg	whiskytussanngilaq
 
 
 
@@ -499,18 +499,18 @@ utoqqatser+Sem/speak_emot+SSA+NNGIT+V+Ind+3Sg	utoqqatsissanngilaq
 whisky+iSem/drink+TUR+Sem/fn:drink+V+Ind+1Sg	whiskytorpunga
 whisky+iSem/drink+TUR+Sem/fn:drink+V+Ind+3Sg	whiskytorpoq
 whisky+iSem/drink+TUR+Sem/fn:drink+V+Int+2Sg	whiskytorpit
-whisky+TUR+Sem/fn:drink+GUSUP+V+Ind+1Sg	whiskytorusuppunga
-whisky+TUR+Sem/fn:drink+GUSUP+V+Ind+3Sg	whiskytorusuppoq
-whisky+TUR+Sem/fn:drink+GUSUP+V+Int+2Sg	whiskytorusuppit
-whisky+TUR+Sem/fn:drink+GUSUP+NNGIT+V+Ind+1Sg	whiskytorusunngilanga
-whisky+TUR+Sem/fn:drink+GUSUP+NNGIT+V+Ind+3Sg	whiskytorusunngilaq
+whisky+iSem/drink+TUR+Sem/fn:drink+GUSUP+V+Ind+1Sg	whiskytorusuppunga
+whisky+iSem/drink+TUR+Sem/fn:drink+GUSUP+V+Ind+3Sg	whiskytorusuppoq
+whisky+iSem/drink+TUR+Sem/fn:drink+GUSUP+V+Int+2Sg	whiskytorusuppit
+whisky+iSem/drink+TUR+Sem/fn:drink+GUSUP+NNGIT+V+Ind+1Sg	whiskytorusunngilanga
+whisky+iSem/drink+TUR+Sem/fn:drink+GUSUP+NNGIT+V+Ind+3Sg	whiskytorusunngilaq
 whisky+iSem/drink+TUR+Sem/fn:drink+NNGIT+V+Ind+1Sg	whiskytunngilanga
 whisky+iSem/drink+TUR+Sem/fn:drink+NNGIT+V+Ind+3Sg	whiskytunngilaq
-whisky+TUR+Sem/fn:drink+SSA+V+Int+2Sg	whiskytussavit
-whisky+TUR+Sem/fn:drink+SSA+V+Ind+1Sg	whiskytussaanga
-whisky+TUR+Sem/fn:drink+SSA+V+Ind+3Sg	whiskytussaaq
-whisky+TUR+Sem/fn:drink+SSA+NNGIT+V+Ind+1Sg	whiskytussanngilanga
-whisky+TUR+Sem/fn:drink+SSA+NNGIT+V+Ind+3Sg	whiskytussanngilaq
+whisky+iSem/drink+TUR+Sem/fn:drink+SSA+V+Int+2Sg	whiskytussavit
+whisky+iSem/drink+TUR+Sem/fn:drink+SSA+V+Ind+1Sg	whiskytussaanga
+whisky+iSem/drink+TUR+Sem/fn:drink+SSA+V+Ind+3Sg	whiskytussaaq
+whisky+iSem/drink+TUR+Sem/fn:drink+SSA+NNGIT+V+Ind+1Sg	whiskytussanngilanga
+whisky+iSem/drink+TUR+Sem/fn:drink+SSA+NNGIT+V+Ind+3Sg	whiskytussanngilaq
 whisky+iSem/drink+U+Sem/be_copula+V+Ind+3Sg	whiskyuvoq
 whisky+iSem/drink+U+Sem/be_copula+NNGIT+V+Ind+3Sg	whiskyunngilaq
 
