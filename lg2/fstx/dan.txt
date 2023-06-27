@@ -1,0 +1,112 @@
+## GLOSSELISTE LG_kal0 ##
+
+akisooq	dyr
+ateq	et navn
+illu	et hus
+kalaaleq	en grønlænder
+najugaq	en bopæl
+nuliaq	en kone
+pisiniarfik	en butik
+pizza	en pizza
+qallunaaq	en dansker
+tii	te
+whisky	whisky
+
+# Sem/Geo #
+Aasiaat	Aasiaat
+Danmark	Danmark
+Kalaallit Nunaat	Grønland
+Kangerlussuaq	Kangerlussuaq
+Maniitsoq	Maniitsoq
+Nanortalik	Nanortalik
+Narsaq	Narsaq
+Narsarsuaq	Narsarsuaq
+Nuuk	Nuuk
+Paamiut	Paamiut
+Pituffik	Pituffik
+Qaanaaq	Qaanaaq
+Qaqortoq	Qaqortoq
+Sisimiut	Sisimiut
+Tasiilaq	Tasiilaq
+Upernavik	Upernavik
+Uummannaq	Uummannaq
+
+# Sem/Hum #
+Aputsiaq	Aputsiaq
+Arnannguaq	Arnannguaq
+Aviaaja	Aviaaja
+Egede	Egede
+Malik	Malik
+Nuka	Nuka
+Olsen	Olsen
+Rosing	Rosing
+
+# Sem/inst #
+Pisiffik	Pisiffik
+Ilisimatusarfik	Grønlands universitet
+Royal Greenland	Royal Greenland
+Naalakkersuisut	Naalakkersuisut
+Nunatta Atuagaateqarfia	Landsbiblioteket
+Katuaq	Katuaq
+
+# Partikler #
+aamma	også
+aap	ja
+aqaguagu	i overmorgen
+ippassaq	i går
+kalaallisut	grønlandsk
+naamik	nej
+
+# Pronominer #
+taanna	han, hun, den, det
+uanga	jeg
+illit	du
+ilissi	I
+
+# Verber #
+aallar	at rejse
+ajor	at være dårlig
+ateqar	at hedde
+ilinniartip	at undervise nogen
+naapip	at møde nogen
+najugaqar	at bo
+qujaannar	at takke nej
+pikkorip	at være dygtig
+suli	at arbejde
+taku	at se nogen
+tikip	at ankomme
+utoqqatser	at undskylde
+
+# POS-tags mv. #
++2PlO	jer
++3PlPoss	deres
++1Sg	jeg
++2Sg	du
++3Sg	han, hun, den, det
++3SgO	ham, hende, den, det
++1SgPoss	min, mine
++Abl	ablativ (fra)
++Abs	absolut
++Ind	modus indikativ
++Ins	instrumentalis (med)
++Int	modus interrogativ
++Lok	lokalis (i/på)
++N	nomen
++Pl	pluralis
++Prop	proprium
++Sg	singularis
++Trm	terminalis
++V	verbum
+
+# Affikser #
++MIU	en N-beboer
++QAR	at have N
++TUR	at spise/drikke N
++U	at være N
++GUSUP	at ønske at V
++NNGIT	at ikke V
++SSA	at V fremtidigt
+
+# Tilhængspartikler #
++LI	men
++LU	og
