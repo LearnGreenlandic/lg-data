@@ -77,7 +77,7 @@ suli+Sem/work+GUSUP+V+Int+2Sg	sulerusuppit
 taku+Sem/see+GUSUP+V+Ind+1Sg+3SgO	takorusuppara
 taku+Sem/see+GUSUP+V+Int+2Sg+3SgO	takorusuppiuk
 taku+Sem/see+V+Ind+1Sg+3SgO	takuara
-taku+Sem/see+V+Int+2Sg+3Sg	takuiuk
+taku+Sem/see+V+Int+2Sg+3SgO	takuiuk
 ilinniar+TIP+Sem/teach+GUSUP+V+Ind+1Sg+3SgO	ilinniartikkusuppara
 ilinniar+TIP+Sem/teach+GUSUP+V+Int+2Sg+3SgO	ilinniartikkusuppiuk
 ilinniar+TIP+Sem/teach+V+Ind+1Sg+3SgO	ilinniartippara
@@ -438,7 +438,7 @@ taku+Sem/see+GUSUP+V+Ind+1Sg+2PlO	takorusuppassi
 taku+Sem/see+GUSUP+V+Int+2Sg+3SgO	takorusuppiuk
 taku+Sem/see+V+Ind+1Sg+3SgO	takuara
 taku+Sem/see+V+Ind+1Sg+2PlO	takuassi
-taku+Sem/see+V+Int+2Sg+3Sg	takuiuk
+taku+Sem/see+V+Int+2Sg+3SgO	takuiuk
 taku+iSem/see+NNGIT+V+Ind+1Sg+3SgO	takunngilara
 taku+iSem/see+NNGIT+V+Ind+1Sg+2PlO	takunngilassi
 taku+Sem/see+GUSUP+NNGIT+V+Ind+1Sg+3SgO	takorusunngilara
