@@ -20,7 +20,7 @@ Aasiammiuussavoq	Aasiaat+MIU-U-SSA+vuq
 Aasiammiuussavorli	Aasiaat+MIU-U-SSA+vuq+LI
 Aasiammiuussavorlu	Aasiaat+MIU-U-SSA+vuq+LU
 Aasiammiuussavunga	Aasiaat+MIU-U-SSA+vuŋa
-Aasiammiuussavungali	Aasiaat+MIU-U-SSA+vuŋa+LU
+Aasiammiuussavungali	Aasiaat+MIU-U-SSA+vuŋa+LI
 Aasiammiuuvoq	Aasiaat+MIU-U+vuq
 Aasiammiuuvorli	Aasiaat+MIU-U+vuq+LI
 Aasiammiuuvorlu	Aasiaat+MIU-U+vuq+LU
@@ -306,7 +306,7 @@ Langgårdimillu	Langgård-mik+LU
 Langgårdimilu	Langgård-mi+LU
 Langgårdiussavoq	Langgård-U-SSA+vuq
 Langgårdiussavorli	Langgård-U-SSA+vuq+LI
-Langgårdiussavorlu	Langgård-U-SSA+vuq+LI
+Langgårdiussavorlu	Langgård-U-SSA+vuq+LU
 Langgårdiussavunga	Langgård-U-SSA+vuŋa
 Langgårdiussavungali	Langgård-U-SSA+vuŋa+LI
 Langgårdiuvoq	Langgård-U+vuq
